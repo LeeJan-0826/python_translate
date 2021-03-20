@@ -1,0 +1,128 @@
+1
+00:00:00,340 --> 00:00:03,010
+You've reached the end of
+the deep learning module.
+
+2
+00:00:03,010 --> 00:00:04,320
+Congratulations.
+
+3
+00:00:04,320 --> 00:00:06,820
+&gt;&gt; Roy you sounded just
+like Sebastian right there.
+
+4
+00:00:06,820 --> 00:00:08,920
+&gt;&gt; Thank you,
+I try to be just like Sebastian.
+
+5
+00:00:10,350 --> 00:00:13,380
+So do you feel like a deep
+learning expert now?
+
+6
+00:00:14,530 --> 00:00:16,260
+&gt;&gt; Well I wouldn't
+necessarily say expert, but
+
+7
+00:00:16,260 --> 00:00:18,758
+I think I know what tools I've got.
+
+8
+00:00:18,758 --> 00:00:23,340
+All right, I think you're ready to
+build a behavioral cloning network.
+
+9
+00:00:24,460 --> 00:00:29,090
+The team at Udacity has built an awesome
+simulator for you .It's going to be
+
+10
+00:00:29,090 --> 00:00:33,610
+your job to drive your car around
+the track, collect the data and
+
+11
+00:00:33,610 --> 00:00:36,575
+then train the deep neural network
+to do the driving for you.
+
+12
+00:00:36,575 --> 00:00:40,330
+So How would you approach
+this kind of problem?
+
+13
+00:00:41,710 --> 00:00:44,080
+&gt;&gt; Well I guess I know.
+
+14
+00:00:44,080 --> 00:00:46,266
+I'd compute the gradient.
+
+15
+00:00:46,266 --> 00:00:48,358
+[SOUND] Yeah, and
+then once I've got the gradient-
+
+16
+00:00:48,358 --> 00:00:49,195
+&gt;&gt; Stop, stop, stop.
+
+17
+00:00:49,195 --> 00:00:50,100
+This is deep learning.
+
+18
+00:00:50,100 --> 00:00:50,841
+&gt;&gt; What?
+
+19
+00:00:50,841 --> 00:00:51,490
+&gt;&gt; Not computer vision, deep learning.
+
+20
+00:00:51,490 --> 00:00:52,070
+&gt;&gt; No, no gradient?
+
+21
+00:00:52,070 --> 00:00:53,010
+&gt;&gt; No, focus.
+
+22
+00:00:53,010 --> 00:00:53,690
+Deep learning.
+
+23
+00:00:53,690 --> 00:00:53,843
+&gt;&gt; Got it.
+
+24
+00:00:53,843 --> 00:00:54,844
+Okay.
+
+25
+00:00:54,844 --> 00:00:59,751
+[SOUND] Then I think I'd
+go fire up my simulator.
+
+26
+00:00:59,751 --> 00:01:00,090
+&gt;&gt; Thank you.
+
+27
+00:01:01,520 --> 00:01:06,463
+When you're done you're going to have an
+awesome portfolio project to show off.
+
+28
+00:01:06,463 --> 00:01:08,184
+Actually that was kind of cool.
+
+29
+00:01:08,184 --> 00:01:15,029
+[SOUND]

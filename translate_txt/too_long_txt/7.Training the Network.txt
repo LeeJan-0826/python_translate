@@ -1,0 +1,379 @@
+1
+00:00:00,090 --> 00:00:01,881
+<i>(narrator) The image
+data from the simulator</i>
+
+2
+00:00:01,881 --> 00:00:04,320
+<i>is going to be much easier
+to work with on a GPU</i>
+
+3
+00:00:04,320 --> 00:00:05,520
+<i>than on a CPU.
+</i>
+
+4
+00:00:05,520 --> 00:00:10,170
+<i>So I've launched an AWS EC2
+instance with an attached GPU.</i>
+
+5
+00:00:10,170 --> 00:00:12,720
+<i>And I'm going to train
+the network there.</i>
+
+6
+00:00:12,720 --> 00:00:16,170
+<i>I'll use SCP to copy the
+data up to the EC2 instance,</i>
+
+7
+00:00:16,170 --> 00:00:19,090
+<i>and then extract the data there.
+</i>
+
+8
+00:00:19,090 --> 00:00:22,780
+<i>Next, I'll use Python CSV
+library to read and store</i>
+
+9
+00:00:22,780 --> 00:00:26,620
+<i>the lines from the
+drivinglog.csv file, then,</i>
+
+10
+00:00:26,620 --> 00:00:29,770
+<i>for each line, I'll extract
+the path to the camera image.</i>
+
+11
+00:00:29,770 --> 00:00:33,190
+<i>But remember that path was
+recorded on my local machine.</i>
+
+12
+00:00:33,190 --> 00:00:35,630
+<i>And now I'm on the AWS instance.
+</i>
+
+13
+00:00:35,630 --> 00:00:38,170
+<i>So I'll need to update the
+path so it's valid here</i>
+
+14
+00:00:38,170 --> 00:00:40,590
+<i>on the AWS instance.
+</i>
+
+15
+00:00:40,590 --> 00:00:42,420
+<i>An easy way to
+update the path is</i>
+
+16
+00:00:42,420 --> 00:00:44,670
+<i>to split the path
+on its slashes,</i>
+
+17
+00:00:44,670 --> 00:00:46,560
+<i>and then extract the
+final token, which</i>
+
+18
+00:00:46,560 --> 00:00:47,940
+<i>will be the file name.
+</i>
+
+19
+00:00:47,940 --> 00:00:50,160
+<i>Then, I can add that
+file name to the end</i>
+
+20
+00:00:50,160 --> 00:00:51,960
+<i>of the path to the
+image directory</i>
+
+21
+00:00:51,960 --> 00:00:53,970
+<i>here on my AWS instance.
+</i>
+
+22
+00:00:53,970 --> 00:00:55,680
+<i>Once I have the
+current path, I can</i>
+
+23
+00:00:55,680 --> 00:00:59,340
+<i>use OpenCV to load the image.
+</i>
+
+24
+00:00:59,340 --> 00:01:00,850
+<i>And once I've
+loaded the image, I</i>
+
+25
+00:01:00,850 --> 00:01:03,380
+<i>can append it to
+my list of images.</i>
+
+26
+00:01:03,380 --> 00:01:05,900
+<i>I can do something similar
+for the steering measurements,</i>
+
+27
+00:01:05,900 --> 00:01:07,772
+<i>which will serve as
+my output labels.</i>
+
+28
+00:01:07,772 --> 00:01:09,980
+<i>It's actually going to be
+easier to load the steering</i>
+
+29
+00:01:09,980 --> 00:01:13,550
+<i>measurements, because there are
+no paths or images to handle.</i>
+
+30
+00:01:13,550 --> 00:01:16,670
+<i>I simply extract the fourth
+token from the CSV line,</i>
+
+31
+00:01:16,670 --> 00:01:18,477
+<i>and then cast it as a float.
+</i>
+
+32
+00:01:18,477 --> 00:01:20,060
+<i>That gives me the
+steering measurement</i>
+
+33
+00:01:20,060 --> 00:01:21,500
+<i>for this point in time.
+</i>
+
+34
+00:01:21,500 --> 00:01:24,080
+<i>Then, I append that measurement
+to the larger measurements</i>
+
+35
+00:01:24,080 --> 00:01:26,670
+<i>array, just like I
+did for the image.</i>
+
+36
+00:01:26,670 --> 00:01:29,480
+<i>Now that I've loaded the images
+and steering measurements,</i>
+
+37
+00:01:29,480 --> 00:01:31,850
+<i>I'm going to convert
+them to NumPy arrays,</i>
+
+38
+00:01:31,850 --> 00:01:34,580
+<i>since the format Keras requires.
+</i>
+
+39
+00:01:34,580 --> 00:01:37,310
+<i>Next, I'm going to build the
+most basic neural network</i>
+
+40
+00:01:37,310 --> 00:01:40,130
+<i>possible, just to verify
+that everything is working.</i>
+
+41
+00:01:40,130 --> 00:01:42,950
+<i>This network is just going to
+be a flattened image connected</i>
+
+42
+00:01:42,950 --> 00:01:44,450
+<i>to a single output node.
+</i>
+
+43
+00:01:44,450 --> 00:01:46,280
+<i>This single output
+node will predict</i>
+
+44
+00:01:46,280 --> 00:01:49,970
+<i>my steering angle, which makes
+this a regression network.</i>
+
+45
+00:01:49,970 --> 00:01:51,980
+<i>For a classification
+network I might</i>
+
+46
+00:01:51,980 --> 00:01:55,580
+<i>apply a softmax activation
+function to the output layer.</i>
+
+47
+00:01:55,580 --> 00:01:57,650
+<i>But in a regression
+network like this,</i>
+
+48
+00:01:57,650 --> 00:02:00,230
+<i>I just want the single output
+node to directly predict</i>
+
+49
+00:02:00,230 --> 00:02:01,430
+<i>the steering measurement.
+</i>
+
+50
+00:02:01,430 --> 00:02:05,230
+<i>So I won't apply an
+activation function here.</i>
+
+51
+00:02:05,230 --> 00:02:08,288
+<i>With the network constructed,
+I'll compile the model.</i>
+
+52
+00:02:08,288 --> 00:02:12,130
+<i>For the loss function, I'll
+use mean squared error, or MSE.</i>
+
+53
+00:02:12,130 --> 00:02:14,230
+<i>This is different than
+the cross-entropy function</i>
+
+54
+00:02:14,230 --> 00:02:16,600
+<i>we've used in the past,
+again because this</i>
+
+55
+00:02:16,600 --> 00:02:19,690
+<i>is a regression network instead
+of a classification network.</i>
+
+56
+00:02:19,690 --> 00:02:22,960
+<i>What I want to do is minimize
+the error between the steering</i>
+
+57
+00:02:22,960 --> 00:02:25,270
+<i>measurement that the network
+predicts and the ground</i>
+
+58
+00:02:25,270 --> 00:02:26,590
+<i>truth steering measurement.
+</i>
+
+59
+00:02:26,590 --> 00:02:29,380
+<i>Mean squared error is a
+good loss function for this.</i>
+
+60
+00:02:29,380 --> 00:02:32,020
+<i>Once the model is compiled,
+I'll train it with the feature</i>
+
+61
+00:02:32,020 --> 00:02:35,590
+<i>and label arrays I just built.
+I'll also shuffle the data</i>
+
+62
+00:02:35,590 --> 00:02:40,120
+<i>and split off 20% of the data
+to use for a validation set.</i>
+
+63
+00:02:40,120 --> 00:02:43,360
+<i>Finally, I'm going to save the
+train model, so that later I</i>
+
+64
+00:02:43,360 --> 00:02:45,520
+<i>can download it onto
+my local machine,</i>
+
+65
+00:02:45,520 --> 00:02:47,740
+<i>and see if it works for
+driving the simulator.</i>
+
+66
+00:02:47,740 --> 00:02:50,020
+<i>Let's train the model
+and see how it goes.</i>
+
+67
+00:02:50,020 --> 00:02:52,600
+<i>By default, Keras
+trains for 10 epochs.</i>
+
+68
+00:02:52,600 --> 00:02:54,430
+<i>And I can see that
+the validation loss</i>
+
+69
+00:02:54,430 --> 00:02:56,380
+<i>decreases for the
+first seven epochs,</i>
+
+70
+00:02:56,380 --> 00:02:58,540
+<i>and then starts climbing again.
+</i>
+
+71
+00:02:58,540 --> 00:03:01,900
+<i>This is a sign that maybe I'm
+overfitting the training data.</i>
+
+72
+00:03:01,900 --> 00:03:03,520
+<i>That looks a little better.
+</i>
+
+73
+00:03:03,520 --> 00:03:06,070
+<i>Now, the validation loss
+decreases for almost all</i>
+
+74
+00:03:06,070 --> 00:03:07,130
+<i>of the epochs.
+</i>
+
+75
+00:03:07,130 --> 00:03:09,730
+<i>Next, I'll download this
+model to my local machine,</i>
+
+76
+00:03:09,730 --> 00:03:13,500
+<i>and see how well it drives
+the car in the simulator.</i>

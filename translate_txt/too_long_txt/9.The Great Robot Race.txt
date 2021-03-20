@@ -1,0 +1,3928 @@
+1
+00:00:01,920 --> 00:00:03,886
+The first time it's ever been done.
+
+2
+00:00:03,886 --> 00:00:06,010
+&gt;&gt; Dawn breaks in Western Nevada.
+
+3
+00:00:06,010 --> 00:00:10,495
+A crowd has gathered for
+the race of the century.
+
+4
+00:00:10,495 --> 00:00:12,525
+[MUSIC]
+
+5
+00:00:12,525 --> 00:00:14,650
+In this race, there are no drivers.
+
+6
+00:00:16,129 --> 00:00:18,430
+No human behind the wheel.
+
+7
+00:00:18,430 --> 00:00:23,620
+These robots are on their own and their
+humans observers can't even keep up.
+
+8
+00:00:23,620 --> 00:00:24,650
+&gt;&gt; Literally outrunning us.
+
+9
+00:00:24,650 --> 00:00:26,545
+&gt;&gt; I don't think I can do it
+with this car, I can't keep up.
+
+10
+00:00:26,545 --> 00:00:31,720
+&gt;&gt; It's the first race ever where
+the machine makes all the decisions.
+
+11
+00:00:31,720 --> 00:00:34,308
+&gt;&gt; Think of it as
+a technology demonstration.
+
+12
+00:00:34,308 --> 00:00:38,360
+It'll turn believers out
+of the non-believers.
+
+13
+00:00:38,360 --> 00:00:42,800
+&gt;&gt; Behind each robot is a team of
+people who sacrificed everything
+
+14
+00:00:42,800 --> 00:00:47,100
+creating hardware and software to
+attempt what's never been done before.
+
+15
+00:00:48,240 --> 00:00:50,310
+&gt;&gt; You have to put the blood, sweat and
+
+16
+00:00:50,310 --> 00:00:52,735
+tears into your vehicle
+to make it there.
+
+17
+00:00:52,735 --> 00:00:58,319
+&gt;&gt; I work 16 hour days,
+seven days a week for months on end.
+
+18
+00:00:58,319 --> 00:00:59,652
+[MUSIC]
+
+19
+00:00:59,652 --> 00:01:02,480
+&gt;&gt; The people that fell into
+this project get consumed by it.
+
+20
+00:01:02,480 --> 00:01:04,340
+I even dream about it.
+
+21
+00:01:04,340 --> 00:01:05,883
+[MUSIC]
+
+22
+00:01:05,883 --> 00:01:08,760
+&gt;&gt; Dreams will now be put to the test.
+
+23
+00:01:08,760 --> 00:01:11,530
+It's winner take all
+with a $2 million prize.
+
+24
+00:01:11,530 --> 00:01:14,428
+But the stakes are much higher.
+
+25
+00:01:14,428 --> 00:01:15,480
+[MUSIC]
+
+26
+00:01:15,480 --> 00:01:20,022
+Can a machine navigate miles of
+punishing desert terrain with
+
+27
+00:01:20,022 --> 00:01:23,000
+the speed and agility of a human driver?
+
+28
+00:01:23,000 --> 00:01:24,372
+[MUSIC]
+
+29
+00:01:24,372 --> 00:01:26,375
+Find out.
+
+30
+00:01:26,375 --> 00:01:29,650
+The race begins on NOVA.
+
+31
+00:01:29,650 --> 00:01:39,650
+[MUSIC]
+
+32
+00:01:45,047 --> 00:01:49,981
+&gt;&gt; Corporate funding for
+NOVA is provided by Google and by BP.
+
+33
+00:01:51,360 --> 00:01:55,660
+Major funding for NOVA is provided by
+the Howard Hughes Medical Institute.
+
+34
+00:01:55,660 --> 00:02:01,170
+Serving society through biomedical
+research and science education, HHMI.
+
+35
+00:02:01,170 --> 00:02:04,960
+Major funding for NOVA is also
+provided by The Corporation for
+
+36
+00:02:04,960 --> 00:02:08,270
+Public Broadcasting, and
+by PBS viewers like you.
+
+37
+00:02:08,270 --> 00:02:08,690
+Thank you.
+
+38
+00:02:08,690 --> 00:02:18,690
+[MUSIC]
+
+39
+00:02:22,949 --> 00:02:26,700
+&gt;&gt; California Speedway,
+Mecca for NASCAR autoracing.
+
+40
+00:02:26,700 --> 00:02:30,088
+[MUSIC]
+
+41
+00:02:30,088 --> 00:02:31,736
+In October of 2005,
+
+42
+00:02:31,736 --> 00:02:37,020
+43 teams have brought their vehicles
+to compete in a unique event.
+
+43
+00:02:37,020 --> 00:02:40,560
+A race driven not by testosterone,
+but computer code.
+
+44
+00:02:41,620 --> 00:02:46,140
+These machines are robots, and they're
+going to run an obstacle course with no
+
+45
+00:02:46,140 --> 00:02:48,920
+one behind the wheel and
+no remote control.
+
+46
+00:02:50,720 --> 00:02:54,670
+It's called the Grand Challenge,
+and for good reason.
+
+47
+00:02:54,670 --> 00:02:55,950
+On a two mile course,
+
+48
+00:02:55,950 --> 00:02:59,560
+these robots are on their own and
+there's plenty to trip them up.
+
+49
+00:03:01,310 --> 00:03:04,950
+They'll encounter gates and
+tunnels and all kinds of obstacles,
+
+50
+00:03:04,950 --> 00:03:08,735
+including parked cars and hay bales.
+
+51
+00:03:08,735 --> 00:03:11,621
+[MUSIC]
+
+52
+00:03:11,621 --> 00:03:14,260
+The competition comes in all shapes and
+sizes.
+
+53
+00:03:14,260 --> 00:03:17,630
+The smallest robot is Ghost Rider.
+
+54
+00:03:17,630 --> 00:03:21,500
+&gt;&gt; Ladies and gentlemen,
+the world's first autonomous motorcycle,
+
+55
+00:03:22,720 --> 00:03:25,075
+Ghost Rider, approaching obstacle one.
+
+56
+00:03:25,075 --> 00:03:28,670
+[SOUND]
+&gt;&gt; [APPLAUSE]
+
+57
+00:03:28,670 --> 00:03:33,032
+&gt;&gt; Contact good, obstacle one.
+
+58
+00:03:34,073 --> 00:03:37,059
+&gt;&gt; It'll right itself.
+
+59
+00:03:37,059 --> 00:03:41,811
+&gt;&gt; As though raised from the dead,
+Ghost Rider bravely forges on.
+
+60
+00:03:41,811 --> 00:03:45,171
+&gt;&gt; [APPLAUSE]
+
+61
+00:03:45,171 --> 00:03:45,221
+[MUSIC]
+
+62
+00:03:45,221 --> 00:03:50,535
+&gt;&gt; Now the largest entry,
+a 16-ton truck called
+
+63
+00:03:50,535 --> 00:03:56,245
+TerraMax approaches the first gate and
+hesitates.
+
+64
+00:03:56,245 --> 00:03:58,613
+[MUSIC]
+
+65
+00:03:58,613 --> 00:04:01,102
+&gt;&gt; Come on baby crank it,
+crank it, crank it.
+
+66
+00:04:01,102 --> 00:04:03,460
+&gt;&gt; Do it, do it, do it, do it, nope.
+
+67
+00:04:03,460 --> 00:04:07,310
+&gt;&gt; Like anxious parents,
+its creators look on in agony,
+
+68
+00:04:07,310 --> 00:04:12,470
+but all they can do is watch as
+TerraMax backs up and tries again.
+
+69
+00:04:12,470 --> 00:04:15,125
+[MUSIC]
+
+70
+00:04:15,125 --> 00:04:18,236
+&gt;&gt; It's like a bull in a China shop,
+come on.
+
+71
+00:04:18,236 --> 00:04:21,122
+[MUSIC]
+
+72
+00:04:21,122 --> 00:04:23,152
+&gt;&gt; What, no!
+
+73
+00:04:23,152 --> 00:04:27,833
+&gt;&gt; On the eighth pass,
+TerraMax squeezes through the gate and
+
+74
+00:04:27,833 --> 00:04:29,620
+heads for the finish.
+
+75
+00:04:29,620 --> 00:04:32,331
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Ladies and gentlemen, TerraMax.
+
+76
+00:04:32,331 --> 00:04:34,867
+Perseverance.
+
+77
+00:04:34,867 --> 00:04:40,240
+&gt;&gt; Tommy has a lovable retro appearance
+but looks are a bit deceiving.
+
+78
+00:04:40,240 --> 00:04:44,110
+A computer glitch turns
+the robot in to a wild beast.
+
+79
+00:04:44,110 --> 00:04:44,469
+&gt;&gt; No!
+
+80
+00:04:45,740 --> 00:04:48,970
+&gt;&gt; Tommy has had contact
+with the k barrier.
+
+81
+00:04:48,970 --> 00:04:54,336
+&gt;&gt; There are no serious injuries,
+but Tommy is out of the competition.
+
+82
+00:04:54,336 --> 00:04:58,074
+[BLANK_AUDIO]
+
+83
+00:04:58,074 --> 00:05:02,225
+Team DAD has arrived from Silicon Valley
+with a roof ornament that looks
+
+84
+00:05:02,225 --> 00:05:04,030
+like a relic from an old disco.
+
+85
+00:05:04,030 --> 00:05:06,000
+[MUSIC]
+
+86
+00:05:06,000 --> 00:05:10,990
+It's a homemade laser scanner, created
+by Dave Hall and his brother Bruce.
+
+87
+00:05:12,060 --> 00:05:13,610
+Even as they drive to the start,
+
+88
+00:05:13,610 --> 00:05:16,410
+they're writing computer code
+to make their scanner work.
+
+89
+00:05:19,050 --> 00:05:20,110
+Now, it's showtime.
+
+90
+00:05:20,110 --> 00:05:23,046
+&gt;&gt; We want to watch
+the first one ready now.
+
+91
+00:05:23,046 --> 00:05:25,690
+Which one's up?
+
+92
+00:05:29,380 --> 00:05:33,773
+&gt;&gt; Almost immediately, they hit the hay.
+
+93
+00:05:33,773 --> 00:05:37,890
+For this run, Team Dad,
+like disco in the 70s, is dead.
+
+94
+00:05:40,150 --> 00:05:41,430
+But they'll have another chance.
+
+95
+00:05:44,150 --> 00:05:46,650
+Many universities are fielding teams.
+
+96
+00:05:46,650 --> 00:05:48,934
+And Stanley, Stanford's robot,
+
+97
+00:05:48,934 --> 00:05:53,512
+looks like a high-tech version of
+another VW, Herbie, the Love Bug.
+
+98
+00:05:53,512 --> 00:05:55,768
+[MUSIC]
+
+99
+00:05:55,768 --> 00:05:58,380
+&gt;&gt; [LAUGH]
+&gt;&gt; Stanley is the brainchild of
+
+100
+00:05:58,380 --> 00:06:00,270
+Sebastian Thrun.
+
+101
+00:06:00,270 --> 00:06:05,040
+For him, the Grand Challenge
+is a Woodstock for robo geeks.
+
+102
+00:06:05,040 --> 00:06:07,000
+&gt;&gt; There's very little in
+the way of competitiveness here.
+
+103
+00:06:07,000 --> 00:06:10,015
+Although everybody understands in the
+end of the day everyone wants to win.
+
+104
+00:06:10,015 --> 00:06:13,218
+&gt;&gt; [LAUGH]
+&gt;&gt; Hello, Sir.
+
+105
+00:06:13,218 --> 00:06:13,654
+It's been a big fest.
+
+106
+00:06:13,654 --> 00:06:15,830
+There's like a thousand people
+who care about the same thing,
+
+107
+00:06:16,870 --> 00:06:19,200
+making cars drive themselves,
+and they all get together.
+
+108
+00:06:19,200 --> 00:06:22,054
+It's a big festival, it's really great.
+
+109
+00:06:22,054 --> 00:06:26,780
+[MUSIC]
+
+110
+00:06:26,780 --> 00:06:27,054
+&gt;&gt; So, you ready?
+
+111
+00:06:27,054 --> 00:06:27,920
+&gt;&gt; Yeah.
+
+112
+00:06:27,920 --> 00:06:28,260
+&gt;&gt; One, two, three.
+
+113
+00:06:29,800 --> 00:06:34,250
+&gt;&gt; The largest team at the competition
+is from Carnegie Mellon in Pittsburgh.
+
+114
+00:06:34,250 --> 00:06:37,320
+And for them,
+the Grand Challenge is no lovefest.
+
+115
+00:06:37,320 --> 00:06:42,097
+&gt;&gt; But you were either thoroughly
+rested, 200% effectiveness or
+
+116
+00:06:42,097 --> 00:06:43,781
+you got some work to do.
+
+117
+00:06:43,781 --> 00:06:47,407
+&gt;&gt; No one knows what it takes to
+succeed in the Grand Challenge,
+
+118
+00:06:47,407 --> 00:06:49,477
+since no one anywhere has done it.
+
+119
+00:06:50,790 --> 00:06:53,896
+The red team's prepared for anything.
+
+120
+00:06:53,896 --> 00:06:57,426
+&gt;&gt; And the trailer is [CROSSTALK]
+&gt;&gt; Led by former Marine Red Whittaker,
+
+121
+00:06:57,426 --> 00:07:02,448
+the red team is a well funded army
+of computer wizards and engineers.
+
+122
+00:07:02,448 --> 00:07:04,877
+The team has invested two years and
+
+123
+00:07:04,877 --> 00:07:09,082
+millions of dollars to get
+Sandstorm to the starting line.
+
+124
+00:07:09,082 --> 00:07:11,655
+&gt;&gt; Ladies and gentlemen,
+from Pittsburgh, PA.
+
+125
+00:07:11,655 --> 00:07:15,269
+&gt;&gt; [APPLAUSE]
+&gt;&gt; This is a nice angle for
+
+126
+00:07:15,269 --> 00:07:18,966
+the road approach, get crisp,
+get crisp, get crisp.
+
+127
+00:07:18,966 --> 00:07:22,205
+Damn beautiful, beautiful.
+
+128
+00:07:22,205 --> 00:07:23,613
+You can just see it there.
+
+129
+00:07:23,613 --> 00:07:28,669
+&gt;&gt; Whoa, look at that,
+that's the way, that's the way.
+
+130
+00:07:28,669 --> 00:07:30,290
+Put the pedal to the metal.
+
+131
+00:07:30,290 --> 00:07:32,773
+&gt;&gt; Sandstorm's aggressive
+on the straightaway.
+
+132
+00:07:32,773 --> 00:07:36,070
+&gt;&gt; [INAUDIBLE] hay bales.
+
+133
+00:07:36,070 --> 00:07:39,870
+&gt;&gt; But today, the robot has
+a fatal attraction to hay bales.
+
+134
+00:07:41,100 --> 00:07:43,869
+&gt;&gt; Contact with the hay bales.
+
+135
+00:07:43,869 --> 00:07:45,360
+[MUSIC]
+
+136
+00:07:45,360 --> 00:07:50,737
+&gt;&gt; Like all the entries, Sandstorm has
+four chances to demonstrate agility and
+
+137
+00:07:50,737 --> 00:07:52,318
+speed for the judges.
+
+138
+00:07:52,318 --> 00:07:59,499
+[MUSIC]
+
+139
+00:07:59,499 --> 00:08:05,298
+Based on their performance, 20 robots
+will qualify for the main event.
+
+140
+00:08:05,298 --> 00:08:07,830
+A long distance desert race and
+a chance to win $2 million.
+
+141
+00:08:07,830 --> 00:08:11,231
+[MUSIC]
+
+142
+00:08:11,231 --> 00:08:16,701
+The race is sponsored by DARPA, Defense
+Advance Research Projects Agency.
+
+143
+00:08:17,740 --> 00:08:21,480
+Their goal is to stimulate technology
+that can be used by the military.
+
+144
+00:08:23,000 --> 00:08:27,620
+&gt;&gt; If we can use unmanned vehicles in
+dangerous missions like living supplies
+
+145
+00:08:27,620 --> 00:08:28,960
+into frontlines.
+
+146
+00:08:28,960 --> 00:08:33,010
+Then we can take drivers out of the
+vehicles and they're less vulnerable.
+
+147
+00:08:33,010 --> 00:08:38,460
+If you remember Private Jessica Lynch,
+she was a driver of a supply vehicle and
+
+148
+00:08:38,460 --> 00:08:42,710
+if that was an autonomous vehicle,
+that episode would have never happened.
+
+149
+00:08:42,710 --> 00:08:44,810
+True autonomy, that's what we're after.
+
+150
+00:08:44,810 --> 00:08:46,859
+It's a hard problem.
+
+151
+00:08:49,020 --> 00:08:53,210
+&gt;&gt; Just how hard a problem it is to
+create a vehicle that can drive itself
+
+152
+00:08:53,210 --> 00:08:57,550
+became painfully clear a year earlier
+at the first Grand Challenge race.
+
+153
+00:08:58,960 --> 00:09:04,184
+Carnegie Mellon was one of 15
+teams at the starting line.
+
+154
+00:09:06,600 --> 00:09:11,430
+Racing against the clock, Sandstorm
+was the first robot out of the game.
+
+155
+00:09:11,430 --> 00:09:16,640
+To win, it had to run a course across
+142 miles of ragged desert terrain
+
+156
+00:09:16,640 --> 00:09:17,589
+in less than ten hours.
+
+157
+00:09:21,780 --> 00:09:24,431
+But just seven miles from the start,
+
+158
+00:09:24,431 --> 00:09:28,289
+Sandstorm drifted off course and
+got stuck on a rock.
+
+159
+00:09:28,289 --> 00:09:31,873
+In a valiant effort to keep moving,
+
+160
+00:09:31,873 --> 00:09:38,140
+the robot spun its wheels until
+its tires burst into flame.
+
+161
+00:09:38,140 --> 00:09:41,540
+Back at the start, other robots
+were having their own problems.
+
+162
+00:09:43,000 --> 00:09:49,615
+&gt;&gt; Everything was set up for this high
+speed rumble of all these vehicles.
+
+163
+00:09:49,615 --> 00:09:55,634
+This careening through the dessert and
+that's not how it happened.
+
+164
+00:09:55,634 --> 00:10:01,680
+&gt;&gt; All 15 robots died of mechanical
+failure, half in the first mile.
+
+165
+00:10:01,680 --> 00:10:05,590
+In this group of losers,
+Sandstorm went the farthest,
+
+166
+00:10:05,590 --> 00:10:09,280
+leaving many to believe no robot
+could ever win the grand challenge.
+
+167
+00:10:10,440 --> 00:10:13,630
+&gt;&gt; The fact that the vehicle's
+only traveled a short distance
+
+168
+00:10:13,630 --> 00:10:15,260
+show's that it was a tough
+technical problem.
+
+169
+00:10:15,260 --> 00:10:19,518
+But where the success really lies in the
+amount of people that actually responded
+
+170
+00:10:19,518 --> 00:10:20,524
+to the challenge.
+
+171
+00:10:20,524 --> 00:10:23,890
+[MUSIC]
+
+172
+00:10:23,890 --> 00:10:28,750
+After this fiasco, Carnegie Mellon now
+has a year to prepare for the next race.
+
+173
+00:10:30,370 --> 00:10:31,590
+&gt;&gt; Okay, let's settle in, go to work.
+
+174
+00:10:32,740 --> 00:10:35,610
+The five main things that we
+said that we would get done for
+
+175
+00:10:35,610 --> 00:10:37,370
+today, I want it done.
+
+176
+00:10:38,580 --> 00:10:43,729
+So it's not enough to wave hands and
+say voila, this works.
+
+177
+00:10:45,100 --> 00:10:47,010
+&gt;&gt; I signed up to succeed
+in the Grand Challenge.
+
+178
+00:10:48,170 --> 00:10:53,880
+This time around, the red team
+will be more like a red army.
+
+179
+00:10:53,880 --> 00:10:55,300
+It is a machine to reckoned with.
+
+180
+00:10:56,950 --> 00:11:01,350
+&gt;&gt; Red Whittaker's resume is
+a veritable history of field robotics.
+
+181
+00:11:01,350 --> 00:11:05,380
+His robots are battle-hardened machines
+built to clean up Three Mile Island and
+
+182
+00:11:05,380 --> 00:11:06,520
+then Chernobyl.
+
+183
+00:11:06,520 --> 00:11:11,000
+These rust belt brutes can map
+dangerous mines, load trucks,
+
+184
+00:11:11,000 --> 00:11:14,000
+remove asbestos and mow hay.
+
+185
+00:11:14,000 --> 00:11:18,441
+They're global explorers that have
+ventured across volcanoes, deserts and
+
+186
+00:11:18,441 --> 00:11:19,120
+glaciers.
+
+187
+00:11:19,120 --> 00:11:25,211
+[MUSIC]
+
+188
+00:11:25,211 --> 00:11:29,049
+Now, Whittaker has staked his reputation
+on winning the Grand Challenge.
+
+189
+00:11:30,090 --> 00:11:34,480
+To double his chances, he's planning
+to run two robots in the next race.
+
+190
+00:11:35,680 --> 00:11:39,720
+In addition to their veteran Sandstorm,
+the red team will transform this new
+
+191
+00:11:39,720 --> 00:11:43,240
+Hummer into a more aggressive
+machine called Highlander.
+
+192
+00:11:45,750 --> 00:11:46,700
+For more than a year,
+
+193
+00:11:46,700 --> 00:11:50,319
+Wait Gibbs has been documenting
+Whittaker's Grand Challenge quest.
+
+194
+00:11:51,670 --> 00:11:55,980
+&gt;&gt; Red Whittaker is nothing if
+not an ambitious man [LAUGH].
+
+195
+00:11:55,980 --> 00:12:00,160
+&gt;&gt; He's a roboticist who in his weekends
+goes out and drives a tractor for
+
+196
+00:12:00,160 --> 00:12:02,010
+ten hours on his farm.
+
+197
+00:12:02,010 --> 00:12:06,130
+And who likes to actually get in and
+get his hands greasy and
+
+198
+00:12:06,130 --> 00:12:08,040
+dirty inside an engine.
+
+199
+00:12:08,040 --> 00:12:13,270
+Red gets excited about seeing his robots
+do powerful things in the real world
+
+200
+00:12:13,270 --> 00:12:15,250
+&gt;&gt; Think it's going to work.
+
+201
+00:12:15,250 --> 00:12:18,650
+&gt;&gt; The thing, at this stage of the game,
+it's making it work, right?
+
+202
+00:12:18,650 --> 00:12:20,040
+Making it work.
+
+203
+00:12:20,040 --> 00:12:23,207
+&gt;&gt; Take the hood off.
+
+204
+00:12:23,207 --> 00:12:31,233
+[MUSIC]
+
+205
+00:12:31,233 --> 00:12:33,769
+&gt;&gt; The red team will spend
+several months replacing and
+
+206
+00:12:33,769 --> 00:12:35,620
+modifying Highlander's hardware.
+
+207
+00:12:38,130 --> 00:12:42,274
+&gt;&gt; A tremendous amount
+of these desert raising
+
+208
+00:12:42,274 --> 00:12:46,197
+machines is heavy metal
+iron [INAUDIBLE].
+
+209
+00:12:46,197 --> 00:12:50,190
+It's heating and beating and
+bashing and cutting and making.
+
+210
+00:12:51,520 --> 00:12:54,460
+It's as important as
+any of the software.
+
+211
+00:12:54,460 --> 00:12:55,059
+It's a lot of fun.
+
+212
+00:12:58,280 --> 00:13:01,140
+To replace the human behind the wheel,
+team members have
+
+213
+00:13:01,140 --> 00:13:05,370
+installed an electromechanical system
+to steer, shift, throttle and brake.
+
+214
+00:13:07,230 --> 00:13:11,239
+They're installing sensors so
+Highlander can see and GPS receivers so
+
+215
+00:13:11,239 --> 00:13:12,984
+it can follow the race course.
+
+216
+00:13:12,984 --> 00:13:15,669
+[MUSIC]
+
+217
+00:13:15,669 --> 00:13:18,144
+And they're giving the robot a brain.
+
+218
+00:13:18,144 --> 00:13:22,531
+Filling it with software,
+so it can drive by itself.
+
+219
+00:13:22,531 --> 00:13:24,850
+Now it might seem easy for
+robots to drive.
+
+220
+00:13:27,340 --> 00:13:29,160
+It happens all the time in movies.
+
+221
+00:13:30,820 --> 00:13:33,254
+&gt;&gt; I'll drive.
+
+222
+00:13:33,254 --> 00:13:34,630
+&gt;&gt; You think of the Terminator movies.
+
+223
+00:13:34,630 --> 00:13:38,164
+Science fiction gives a really distorted
+view of capabilities of robots.
+
+224
+00:13:40,420 --> 00:13:44,340
+Those robots are able to
+identify specific individuals.
+
+225
+00:13:44,340 --> 00:13:47,630
+But in reality, robots have very
+limited senses of perception.
+
+226
+00:13:49,360 --> 00:13:51,830
+&gt;&gt; Robots know nothing
+about their environment and
+
+227
+00:13:51,830 --> 00:13:53,650
+they can't think like humans.
+
+228
+00:13:53,650 --> 00:13:56,700
+But they're really good
+at crunching numbers.
+
+229
+00:13:56,700 --> 00:14:00,242
+Most rely on laser range
+finders to perceive the world.
+
+230
+00:14:00,242 --> 00:14:03,283
+[MUSIC]
+
+231
+00:14:03,283 --> 00:14:06,748
+Inside a beam of light bounces
+off a spinning mirror and
+
+232
+00:14:06,748 --> 00:14:08,490
+sweeps the terrain ahead.
+
+233
+00:14:09,820 --> 00:14:12,940
+By measuring the time it takes
+the beam to hit something and
+
+234
+00:14:12,940 --> 00:14:16,780
+return, the range finder can measure
+its distance from the vehicle.
+
+235
+00:14:17,950 --> 00:14:21,200
+Scanners are mounted in pairs
+to measure different things.
+
+236
+00:14:22,980 --> 00:14:27,470
+Some look for smooth road ahead, others
+look for the road edge on each side.
+
+237
+00:14:28,910 --> 00:14:33,620
+Some look for vertical objects, a rock
+or a fence post that can kill a robot.
+
+238
+00:14:36,330 --> 00:14:40,410
+Putting it all together, this becomes
+Highlander's view of the world.
+
+239
+00:14:40,410 --> 00:14:44,935
+&gt;&gt; A road map made from millions
+of numbers that basically tells
+
+240
+00:14:44,935 --> 00:14:46,984
+the robot bumpy or smooth.
+
+241
+00:14:46,984 --> 00:14:52,042
+[MUSIC]
+
+242
+00:14:52,042 --> 00:14:56,776
+Off on its own, Highlander will try to
+avoid obstacles for the first time.
+
+243
+00:14:56,776 --> 00:15:06,776
+[MUSIC]
+
+244
+00:15:11,070 --> 00:15:15,150
+Improving its driving skills will
+take endless hours of programming.
+
+245
+00:15:17,520 --> 00:15:22,840
+&gt;&gt; The red team robots have on the order
+of a million lines of computer code.
+
+246
+00:15:22,840 --> 00:15:26,840
+Even so, they do very simple
+reasoning about the world.
+
+247
+00:15:26,840 --> 00:15:28,700
+They look for flat spots.
+
+248
+00:15:28,700 --> 00:15:31,180
+Flat is good, drive on flat spots.
+
+249
+00:15:31,180 --> 00:15:32,900
+Anything that's not flat, avoid it.
+
+250
+00:15:34,590 --> 00:15:38,271
+&gt;&gt; But for the red team winning
+the Grand Challenge involves much more
+
+251
+00:15:38,271 --> 00:15:39,922
+than writing computer code.
+
+252
+00:15:39,922 --> 00:15:45,174
+[MUSIC]
+
+253
+00:15:45,174 --> 00:15:48,243
+While some team members are testing
+Highlander in the field,
+
+254
+00:15:48,243 --> 00:15:50,140
+others are refurbishing Sandstorm.
+
+255
+00:15:52,760 --> 00:15:56,670
+Another group is building
+state of the art sensors and
+
+256
+00:15:56,670 --> 00:15:58,970
+writing software never ends.
+
+257
+00:16:00,060 --> 00:16:01,120
+&gt;&gt; What's left to do.
+
+258
+00:16:01,120 --> 00:16:06,630
+&gt;&gt; Whittaker commands an army of 100 or
+more with a $3 million war chest.
+
+259
+00:16:06,630 --> 00:16:09,670
+He's determined to have two
+robots at the starting line, and
+
+260
+00:16:09,670 --> 00:16:12,020
+one in the winner's circle.
+
+261
+00:16:12,020 --> 00:16:14,210
+&gt;&gt; A lot of people work hard.
+
+262
+00:16:14,210 --> 00:16:16,000
+Red team's no exception on that front.
+
+263
+00:16:16,000 --> 00:16:19,020
+Winning a race isn't about working hard.
+
+264
+00:16:19,020 --> 00:16:22,070
+Yeah, you gotta do that,
+but it's a lot more.
+
+265
+00:16:23,430 --> 00:16:26,740
+If you haven't done everything,
+you haven't done a thing.
+
+266
+00:16:26,740 --> 00:16:30,263
+[MUSIC]
+
+267
+00:16:30,263 --> 00:16:34,374
+Not all teams take Whittaker's all or
+nothing approach.
+
+268
+00:16:34,374 --> 00:16:37,397
+For the Hall brothers,
+the grand challenge is great fun.
+
+269
+00:16:37,397 --> 00:16:39,360
+[MUSIC]
+
+270
+00:16:39,360 --> 00:16:43,980
+Each day, Bruce and Dave program
+their robot as they drive it to work.
+
+271
+00:16:43,980 --> 00:16:48,620
+&gt;&gt; We have about a 45 minute drive each
+day, and we're tired of driving it.
+
+272
+00:16:48,620 --> 00:16:51,700
+We'd like to get into our vehicle and
+hit the switch and
+
+273
+00:16:51,700 --> 00:16:52,890
+have it drive us home, frankly.
+
+274
+00:16:52,890 --> 00:16:57,820
+&gt;&gt; The Hall brothers own a company
+that owns audio speakers.
+
+275
+00:16:59,770 --> 00:17:02,840
+Bruce runs the daily business,
+while Dave tinkers in the shop.
+
+276
+00:17:05,359 --> 00:17:07,740
+&gt;&gt; Dave was the engineer and
+
+277
+00:17:07,740 --> 00:17:11,630
+chief designer behind
+a new robot drive system.
+
+278
+00:17:13,410 --> 00:17:17,686
+And that enabled us to compete in robot
+competitions, such as Battle Bots.
+
+279
+00:17:17,686 --> 00:17:20,559
+&gt;&gt; Great, these guys are from
+Silicon Valley, and they mean business,
+
+280
+00:17:20,559 --> 00:17:22,224
+look at this bad boy, how heavy is that?
+
+281
+00:17:22,224 --> 00:17:23,618
+&gt;&gt; 350 pounds.
+
+282
+00:17:23,618 --> 00:17:26,369
+&gt;&gt; Drillzilla just has too much power.
+
+283
+00:17:26,369 --> 00:17:29,090
+&gt;&gt; He's twice the weight because-
+&gt;&gt; We got second place in the world
+
+284
+00:17:29,090 --> 00:17:31,400
+championship in Robot Wars.
+
+285
+00:17:31,400 --> 00:17:33,198
+If you think about fighting robots,
+
+286
+00:17:33,198 --> 00:17:36,853
+where you're actually controlling
+them through remote control device,
+
+287
+00:17:36,853 --> 00:17:39,886
+the next logical step is that for
+vehicle that drives itself.
+
+288
+00:17:39,886 --> 00:17:43,112
+[MUSIC]
+
+289
+00:17:43,112 --> 00:17:46,590
+&gt;&gt; Instead of lasers, the Hall brothers
+experimented with video camera.
+
+290
+00:17:47,590 --> 00:17:52,225
+Inspired by the way humans see,
+the technique is called stereo vision.
+
+291
+00:17:52,225 --> 00:17:55,193
+[MUSIC]
+
+292
+00:17:55,193 --> 00:17:59,070
+On the roof,
+they mounted two cameras side by side.
+
+293
+00:17:59,070 --> 00:18:02,937
+By measuring the lateral shift
+of specific areas in each image,
+
+294
+00:18:02,937 --> 00:18:05,660
+the robot compute
+the distance of objects and
+
+295
+00:18:05,660 --> 00:18:08,611
+creates a difference map
+to avoid hitting them.
+
+296
+00:18:08,611 --> 00:18:11,796
+[MUSIC]
+
+297
+00:18:11,796 --> 00:18:12,772
+&gt;&gt; Nice.
+
+298
+00:18:12,772 --> 00:18:16,251
+[SOUND] [LAUGH] Sweet.
+
+299
+00:18:16,251 --> 00:18:21,734
+&gt;&gt; Even after decades of research,
+stereo vision is an unproven technology,
+
+300
+00:18:21,734 --> 00:18:25,344
+and at higher speeds,
+notoriously unreliable.
+
+301
+00:18:25,344 --> 00:18:29,964
+&gt;&gt; [NOISE]
+[SOUND]
+
+302
+00:18:29,964 --> 00:18:33,199
+Sorry.
+
+303
+00:18:33,199 --> 00:18:37,329
+&gt;&gt; After a few scares, the Hall
+brothers scrapped stereo vision, and
+
+304
+00:18:37,329 --> 00:18:39,877
+started building their spinning laser.
+
+305
+00:18:39,877 --> 00:18:41,032
+[SOUND]
+
+306
+00:18:41,032 --> 00:18:44,923
+[MUSIC]
+
+307
+00:18:44,923 --> 00:18:50,040
+In the fields of Iowa, team TerraMax
+is a group of defense contractors.
+
+308
+00:18:50,040 --> 00:18:51,260
+Like all competitors,
+
+309
+00:18:51,260 --> 00:18:55,530
+they're not allowed to use government
+money to compete in the Grand Challenge.
+
+310
+00:18:55,530 --> 00:18:58,850
+Still, for them, this is no hobby.
+
+311
+00:18:58,850 --> 00:19:04,070
+Their vehicle is a big yellow goose
+that might lay a giant golden egg.
+
+312
+00:19:04,070 --> 00:19:07,300
+TerraMax is a six wheel drive vehicle.
+
+313
+00:19:07,300 --> 00:19:10,820
+It is really the logistical
+backbone of the Marine Core.
+
+314
+00:19:10,820 --> 00:19:13,840
+And we think it's one of the most
+mobile vehicles in the world.
+
+315
+00:19:15,310 --> 00:19:20,030
+&gt;&gt; Oshkosh has sold more than 6,000
+of these trucks to the military.
+
+316
+00:19:20,030 --> 00:19:23,920
+With the prowess of an Olympic athlete,
+it plunges into water,
+
+317
+00:19:23,920 --> 00:19:26,550
+charges up hills, and
+even takes to the air.
+
+318
+00:19:27,840 --> 00:19:30,775
+So it's got the muscle,
+but what about the brains?
+
+319
+00:19:30,775 --> 00:19:35,968
+[SOUND] Without a driver, TerraMax is
+
+320
+00:19:35,968 --> 00:19:41,670
+more of a timid giant
+than a raging bull.
+
+321
+00:19:41,670 --> 00:19:43,609
+But the team is confident of its future.
+
+322
+00:19:43,609 --> 00:19:46,351
+[MUSIC]
+
+323
+00:19:46,351 --> 00:19:50,898
+In ten years, the Pentagon plans to
+convert one-third of all military
+
+324
+00:19:50,898 --> 00:19:55,920
+vehicles to unmanned operation, and
+team TerraMax is very eager to help out.
+
+325
+00:19:55,920 --> 00:19:58,562
+[BLANK_AUDIO]
+
+326
+00:19:58,562 --> 00:20:00,647
+[SOUND]
+
+327
+00:20:00,647 --> 00:20:02,204
+[BLANK_AUDIO]
+
+328
+00:20:02,204 --> 00:20:05,550
+Making autonomous vehicles
+is a tough problem, but
+
+329
+00:20:05,550 --> 00:20:09,124
+apparently not tough enough for
+Anthony Levandowski,
+
+330
+00:20:09,124 --> 00:20:13,776
+who's turning the Grand Challenge
+into a two-wheeled balancing act.
+
+331
+00:20:13,776 --> 00:20:17,393
+&gt;&gt; A bike can do things that a truck and
+a car really can't do.
+
+332
+00:20:17,393 --> 00:20:22,139
+[MUSIC]
+
+333
+00:20:22,139 --> 00:20:26,420
+You can do really sharp turns,
+you can go through a forest,
+
+334
+00:20:26,420 --> 00:20:32,860
+really tight spaces, the agility is
+just there, it's not on the vehicles.
+
+335
+00:20:32,860 --> 00:20:33,370
+Yeah, turn it on.
+
+336
+00:20:34,880 --> 00:20:38,265
+&gt;&gt; Anthony dropped out of grad
+school at UC Berkeley, and
+
+337
+00:20:38,265 --> 00:20:41,882
+spent two years teaching
+Ghost Rider to stay up by itself.
+
+338
+00:20:41,882 --> 00:20:44,074
+[MUSIC]
+
+339
+00:20:44,074 --> 00:20:46,950
+&gt;&gt; We are making a motor
+cycle to drive itself.
+
+340
+00:20:46,950 --> 00:20:48,810
+Can you get any cooler than that?
+
+341
+00:20:48,810 --> 00:20:51,707
+That's why everybody
+in the team puts it so
+
+342
+00:20:51,707 --> 00:20:56,624
+many hours, because when you see it
+works, you say, wow, I made that.
+
+343
+00:20:56,624 --> 00:21:01,791
+[MUSIC]
+
+344
+00:21:01,791 --> 00:21:04,632
+&gt;&gt; A year earlier at
+the first Grand Challenge,
+
+345
+00:21:04,632 --> 00:21:07,230
+Ghost Rider made it's world debut.
+
+346
+00:21:07,230 --> 00:21:12,970
+&gt;&gt; I haven't slept in two days,
+and I'm super excited.
+
+347
+00:21:12,970 --> 00:21:16,828
+I mean, this is the culmination
+of six months worth of work,
+
+348
+00:21:16,828 --> 00:21:19,260
+and I forget to turn on the stability.
+
+349
+00:21:19,260 --> 00:21:22,315
+[BLANK_AUDIO]
+
+350
+00:21:22,315 --> 00:21:26,901
+And then the second I saw it start to
+fall, and last year, I said enough.
+
+351
+00:21:26,901 --> 00:21:27,845
+That switch.
+
+352
+00:21:27,845 --> 00:21:31,613
+[BLANK_AUDIO]
+
+353
+00:21:31,613 --> 00:21:32,684
+That's life.
+
+354
+00:21:32,684 --> 00:21:37,073
+Bad things happen, but this will
+never ever happen to me ever again.
+
+355
+00:21:37,073 --> 00:21:41,271
+[MUSIC]
+
+356
+00:21:41,271 --> 00:21:44,560
+The Grand Challenge has basically
+taken up all of my life.
+
+357
+00:21:44,560 --> 00:21:48,510
+I don't talk to my friends anymore,
+I don't have a girlfriend right now.
+
+358
+00:21:49,740 --> 00:21:51,140
+I think it's totally worth it though.
+
+359
+00:21:52,590 --> 00:21:55,106
+This could be a chance of a lifetime.
+
+360
+00:21:55,106 --> 00:21:57,680
+[NOISE]
+
+361
+00:21:57,680 --> 00:22:01,355
+[MUSIC]
+
+362
+00:22:01,355 --> 00:22:03,948
+&gt;&gt; Stanford University is
+a strong competitor, and
+
+363
+00:22:03,948 --> 00:22:07,150
+ran the Grand Challenge for
+the first time.
+
+364
+00:22:07,150 --> 00:22:10,340
+&gt;&gt; I think the team's did
+great the first time around,
+
+365
+00:22:10,340 --> 00:22:14,200
+and performed very well, but it was
+obvious there was some missing link.
+
+366
+00:22:14,200 --> 00:22:16,950
+Some missing science to
+actually win this race,
+
+367
+00:22:16,950 --> 00:22:20,870
+and these are the challenges I live for,
+this is why I do what I do.
+
+368
+00:22:22,050 --> 00:22:23,540
+&gt;&gt; For almost eight years,
+
+369
+00:22:23,540 --> 00:22:27,540
+Sebastian Thrun was Red Whittaker's
+colleague at Carnegie Mellon.
+
+370
+00:22:27,540 --> 00:22:29,940
+They share a passion for robots.
+
+371
+00:22:29,940 --> 00:22:32,950
+But Thrun has little
+interest in hardware, and
+
+372
+00:22:32,950 --> 00:22:36,490
+convinced Volkswagen to donate
+a vehicle with steering, brake, and
+
+373
+00:22:36,490 --> 00:22:39,799
+shift actuators that can
+be controlled by computer.
+
+374
+00:22:41,450 --> 00:22:44,420
+&gt;&gt; The vehicle's name is Stanley,
+so Stanley is nothing else but
+
+375
+00:22:44,420 --> 00:22:47,350
+Stanford, but
+it also gives the vehicle a personality.
+
+376
+00:22:48,560 --> 00:22:53,350
+We think of the vehicle more and
+more as a intelligent decision maker.
+
+377
+00:22:53,350 --> 00:22:57,610
+&gt;&gt; Thrun is a computer scientist with
+a deep interest in machine learning, and
+
+378
+00:22:57,610 --> 00:23:00,780
+robots with personality
+are his specialty.
+
+379
+00:23:00,780 --> 00:23:05,607
+His robots assist the elderly, conduct
+museum tours, fetch tennis balls,
+
+380
+00:23:05,607 --> 00:23:10,005
+and each one embodies Thrun's desire
+to create machines that think.
+
+381
+00:23:10,005 --> 00:23:12,207
+[MUSIC]
+
+382
+00:23:12,207 --> 00:23:16,660
+&gt;&gt; Sebastian Thrun is interested
+in the science of robotics.
+
+383
+00:23:16,660 --> 00:23:20,030
+In learning about new
+techniques that can make,
+
+384
+00:23:21,050 --> 00:23:26,570
+robots do fantastically advanced things
+ten, 20, even 50 years from now.
+
+385
+00:23:26,570 --> 00:23:29,340
+&gt;&gt; I guess he's mounted them vertically,
+but we have no data so far, right?
+
+386
+00:23:29,340 --> 00:23:29,770
+&gt;&gt; That's correct.
+
+387
+00:23:29,770 --> 00:23:31,570
+&gt;&gt; And
+we have no software that can do it.
+
+388
+00:23:31,570 --> 00:23:33,695
+Okay, so how foolish of us?
+
+389
+00:23:33,695 --> 00:23:36,031
+&gt;&gt; [LAUGH]
+&gt;&gt; Compared to the Red Team,
+
+390
+00:23:36,031 --> 00:23:40,231
+Stanford is a small group with
+a single focus on software.
+
+391
+00:23:40,231 --> 00:23:41,702
+&gt;&gt; The problem is, based on-
+&gt;&gt; [CROSSTALK]
+
+392
+00:23:41,702 --> 00:23:42,630
+&gt;&gt; There's a good number of teams
+
+393
+00:23:42,630 --> 00:23:44,830
+who think the challenge
+lies in the hardware.
+
+394
+00:23:44,830 --> 00:23:47,090
+And God bless them,
+it's great they're doing this,
+
+395
+00:23:47,090 --> 00:23:48,820
+and I know there's other challenges.
+
+396
+00:23:50,030 --> 00:23:51,860
+We, from the very beginning,
+
+397
+00:23:51,860 --> 00:23:56,130
+pursued a very aggressive timeline to
+focus almost entirely on software.
+
+398
+00:23:59,160 --> 00:24:02,730
+&gt;&gt; Stanford uses the same laser
+hardware as the Red Team.
+
+399
+00:24:02,730 --> 00:24:05,460
+But they're experimenting
+with ways to use software
+
+400
+00:24:05,460 --> 00:24:08,270
+to give their robot a greater
+role in making decisions.
+
+401
+00:24:08,270 --> 00:24:09,750
+About speed and safety.
+
+402
+00:24:11,380 --> 00:24:14,900
+&gt;&gt; So in this display,
+the white area is safe to drive,
+
+403
+00:24:14,900 --> 00:24:17,820
+the red area is unsafe to drive, and
+the grey area is you don't know.
+
+404
+00:24:19,050 --> 00:24:22,720
+And the robot then just has to steer
+itself so that it stays in the middle of
+
+405
+00:24:22,720 --> 00:24:25,600
+the road and avoids this red
+stuff as much as possible.
+
+406
+00:24:28,940 --> 00:24:33,065
+&gt;&gt; To test Stanley's software on
+the original racecourse, the team has
+
+407
+00:24:33,065 --> 00:24:36,540
+traveled to the Mojave Desert where
+the first Grand Challenge began.
+
+408
+00:24:38,390 --> 00:24:42,630
+Most of Stanley's computer code has
+been written by Mike Montemerlo,
+
+409
+00:24:42,630 --> 00:24:44,670
+Red Whitaker's former PhD student.
+
+410
+00:24:44,670 --> 00:24:47,440
+&gt;&gt; Give me steering and throttle.
+
+411
+00:24:47,440 --> 00:24:48,150
+&gt;&gt; Steering's yours.
+
+412
+00:24:49,490 --> 00:24:49,644
+Throttle.
+
+413
+00:24:49,644 --> 00:24:51,941
+[BLANK_AUDIO]
+
+414
+00:24:51,941 --> 00:24:52,340
+Great.
+
+415
+00:24:54,890 --> 00:24:55,890
+&gt;&gt; Let's step to 15 now.
+
+416
+00:24:58,950 --> 00:25:00,232
+&gt;&gt; What's the mile marker?
+
+417
+00:25:00,232 --> 00:25:01,046
+&gt;&gt; 7.28.
+
+418
+00:25:01,046 --> 00:25:03,520
+&gt;&gt; 7.3 is the critical place.
+
+419
+00:25:03,520 --> 00:25:06,090
+In fact,
+right after this turn over here,
+
+420
+00:25:06,090 --> 00:25:11,550
+the red team rode off the road and there
+was this final destination in the race.
+
+421
+00:25:11,550 --> 00:25:13,240
+That's a very exciting place for us.
+
+422
+00:25:13,240 --> 00:25:15,170
+It's in many many ways
+a historical place.
+
+423
+00:25:15,170 --> 00:25:18,290
+This is the end of
+the previous Grand Challenge.
+
+424
+00:25:18,290 --> 00:25:18,950
+&gt;&gt; Swerve to the right.
+
+425
+00:25:20,560 --> 00:25:21,780
+&gt;&gt; Sorry.
+
+426
+00:25:21,780 --> 00:25:22,890
+I be having a problem.
+
+427
+00:25:22,890 --> 00:25:24,560
+&gt;&gt; It's the end of the race for us.
+
+428
+00:25:24,560 --> 00:25:24,890
+&gt;&gt; Yes.
+
+429
+00:25:26,940 --> 00:25:28,110
+&gt;&gt; What happened Mike?
+
+430
+00:25:28,110 --> 00:25:33,880
+&gt;&gt; It just, the long lasers can't
+see their blind in a corner.
+
+431
+00:25:33,880 --> 00:25:38,145
+&gt;&gt; It stuck the force of a software bug
+which we're currently debugging, so our
+
+432
+00:25:38,145 --> 00:25:42,162
+challenge between April now and October
+will be to get rid of these bugs.
+
+433
+00:25:42,162 --> 00:25:45,561
+[MUSIC]
+
+434
+00:25:45,561 --> 00:25:49,611
+&gt;&gt; Unbelievably Stanley Faulter did the
+same place that killed the Red Team in
+
+435
+00:25:49,611 --> 00:25:51,440
+the first Grand Challenge.
+
+436
+00:25:51,440 --> 00:25:56,410
+But is confident about going head to
+head against a team he knows well.
+
+437
+00:25:56,410 --> 00:26:00,040
+&gt;&gt; The Red Team is
+a seasoned competitor, and
+
+438
+00:26:00,040 --> 00:26:02,300
+they have a lot of money,
+a lot of equipment.
+
+439
+00:26:02,300 --> 00:26:05,890
+They have a fantastic team,
+they used to be at Carnegie Mellon,
+
+440
+00:26:05,890 --> 00:26:08,900
+I know Red very well,
+he's an amazing person.
+
+441
+00:26:08,900 --> 00:26:12,820
+I wouldn't be surprised if the Red
+team and the Stanford team, and
+
+442
+00:26:12,820 --> 00:26:15,848
+maybe two of the other teams
+were the big teams in the end.
+
+443
+00:26:15,848 --> 00:26:19,368
+[SOUND] We will see,
+it's a race, it's a true race.
+
+444
+00:26:19,368 --> 00:26:24,342
+[NOISE]
+&gt;&gt; The Red Team is teaching its
+
+445
+00:26:24,342 --> 00:26:27,099
+robot to go fast,
+up to 50 miles an hour.
+
+446
+00:26:29,090 --> 00:26:33,090
+Software guru, Kevin Peterson,
+has been spending long days and
+
+447
+00:26:33,090 --> 00:26:36,420
+nights improving Sandstorm's
+performance at race pace.
+
+448
+00:26:38,360 --> 00:26:41,930
+&gt;&gt; We've been working on Sandstorm for
+the last month.
+
+449
+00:26:41,930 --> 00:26:45,280
+I just cut sleep out,
+you know, it's not that tough.
+
+450
+00:26:45,280 --> 00:26:48,400
+[LAUGH] You get three hours of sleep a
+day and drink some coffee, you're okay.
+
+451
+00:26:50,790 --> 00:26:52,440
+&gt;&gt; As the robot drives,
+
+452
+00:26:52,440 --> 00:26:54,826
+it has to constantly update its
+picture of the terrain ahead.
+
+453
+00:26:54,826 --> 00:26:59,870
+The faster it goes, the faster it
+has to update this picture, or
+
+454
+00:26:59,870 --> 00:27:01,520
+the terrain just gets on top of it.
+
+455
+00:27:01,520 --> 00:27:07,290
+This is easy for humans to do because we
+can see out 300, 400, 500 feet ahead.
+
+456
+00:27:07,290 --> 00:27:11,190
+But robots have sensors like lasers
+that operate at fixed ranges,
+
+457
+00:27:11,190 --> 00:27:14,160
+60 feet, at most, 150 feet.
+
+458
+00:27:16,010 --> 00:27:17,690
+It's like driving through a fog.
+
+459
+00:27:21,620 --> 00:27:24,259
+&gt;&gt; Each team must lift
+this fog to win the race
+
+460
+00:27:25,408 --> 00:27:27,050
+&gt;&gt; The Red Team's secret weapon
+
+461
+00:27:27,050 --> 00:27:30,140
+is hidden inside the dome
+on Sandstorm's roof,
+
+462
+00:27:30,140 --> 00:27:33,510
+where a high powered laser is
+mounted on a device called a gimbal.
+
+463
+00:27:35,970 --> 00:27:39,670
+&gt;&gt; The gimbal is a motion platform
+
+464
+00:27:39,670 --> 00:27:43,790
+that's a little bit
+like an animal's neck.
+
+465
+00:27:43,790 --> 00:27:47,865
+It can point sensors left,
+right, up, down,
+
+466
+00:27:47,865 --> 00:27:56,320
+in such a way that the pounding
+motion from the vehicle is smoothed.
+
+467
+00:27:56,320 --> 00:27:59,109
+[SOUND]
+&gt;&gt; Like binoculars,
+
+468
+00:27:59,109 --> 00:28:03,010
+this special laser can see
+into the far distance.
+
+469
+00:28:03,010 --> 00:28:06,700
+By damping vibration the gimbal
+gives it a steady gaze.
+
+470
+00:28:06,700 --> 00:28:08,710
+And can point it to
+follow turns in the road.
+
+471
+00:28:08,710 --> 00:28:13,930
+[SOUND] The gimbal mounted laser
+is unique to the Red Team,
+
+472
+00:28:13,930 --> 00:28:17,421
+which has made several from scratch.
+
+473
+00:28:17,421 --> 00:28:21,930
+But it's a fancy piece of hardware
+that's hard to build and easy to break.
+
+474
+00:28:24,480 --> 00:28:27,350
+&gt;&gt; There's been a lot of discussion
+whether you want to gimbal your sensors.
+
+475
+00:28:27,350 --> 00:28:29,420
+In fact,
+we've actually decided against it.
+
+476
+00:28:29,420 --> 00:28:33,070
+We decided against it because we
+wanted simplicity in the system.
+
+477
+00:28:33,070 --> 00:28:35,907
+Every physical system
+that moves can break and
+
+478
+00:28:35,907 --> 00:28:38,750
+there's a lot of stuff
+you can do in software.
+
+479
+00:28:38,750 --> 00:28:41,287
+[MUSIC]
+
+480
+00:28:41,287 --> 00:28:45,513
+&gt;&gt; The Stanford team is putting its
+hopes in a set of off the shelf lasers
+
+481
+00:28:45,513 --> 00:28:48,720
+linked through software
+to a simple video camera.
+
+482
+00:28:50,950 --> 00:28:54,300
+The camera can see all
+the way to the horizon.
+
+483
+00:28:54,300 --> 00:28:58,810
+The trick is to give Stanley some way to
+distinguish the road in the video image.
+
+484
+00:28:58,810 --> 00:29:02,380
+&gt;&gt; So this is just one laser you
+can see it steer the vehicle.
+
+485
+00:29:02,380 --> 00:29:07,400
+&gt;&gt; Stanley's lasers pinpoint smooth
+terrain right in front of the vehicle.
+
+486
+00:29:07,400 --> 00:29:12,110
+By overlapping the laser and video data,
+Stanley can identify the color of
+
+487
+00:29:12,110 --> 00:29:16,010
+the smooth area and search for
+it in the rest of the video image.
+
+488
+00:29:17,910 --> 00:29:22,560
+The area Stanley believes is
+safe is now shown in red.
+
+489
+00:29:22,560 --> 00:29:27,540
+By matching laser and video data on the
+fly, Stanley can adapt to changing road
+
+490
+00:29:27,540 --> 00:29:31,520
+conditions and determine safe
+driving speeds all by itself.
+
+491
+00:29:33,120 --> 00:29:37,710
+&gt;&gt; Making a car really intelligent
+requires to give it an ability to adapt.
+
+492
+00:29:37,710 --> 00:29:41,920
+It's just like in human life,
+we don't enable kids to have a rule for
+
+493
+00:29:41,920 --> 00:29:43,480
+every contingency.
+
+494
+00:29:43,480 --> 00:29:46,306
+You tell them how to learn from
+contingencies and make them smarter, and
+
+495
+00:29:46,306 --> 00:29:47,432
+then we trust them to learn.
+
+496
+00:29:47,432 --> 00:29:49,526
+[BLANK_AUDIO]
+
+497
+00:29:49,526 --> 00:29:54,520
+&gt;&gt; Stanford is the only team using
+adaptive vision to achieve race speeds.
+
+498
+00:29:54,520 --> 00:29:58,953
+Whether it will work well enough for the
+Grand Challenge will soon become clear.
+
+499
+00:29:58,953 --> 00:30:05,037
+[BLANK_AUDIO]
+
+500
+00:30:05,037 --> 00:30:07,720
+Back at the California speedway,
+
+501
+00:30:07,720 --> 00:30:14,050
+after more than a year of fevered
+preparations, the Grand Challenge is on.
+
+502
+00:30:14,050 --> 00:30:18,740
+Officials from DARPA, the Defense
+Advance Research Projects Agency,
+
+503
+00:30:18,740 --> 00:30:21,340
+are judging the final runs
+of the qualifying event.
+
+504
+00:30:21,340 --> 00:30:24,460
+43 teams are competing for
+
+505
+00:30:24,460 --> 00:30:29,960
+just 20 slots in the second and perhaps
+final Grand Challenge desert race.
+
+506
+00:30:29,960 --> 00:30:32,290
+&gt;&gt; Blue team number seven.
+
+507
+00:30:33,530 --> 00:30:37,546
+&gt;&gt; After failing three times to
+complete the two mile obstacle course,
+
+508
+00:30:37,546 --> 00:30:39,979
+Ghost Rider is making its final attempt.
+
+509
+00:30:39,979 --> 00:30:43,766
+[BLANK_AUDIO]
+
+510
+00:30:43,766 --> 00:30:49,411
+It shows surprising agility
+until it enters the tunnel.
+
+511
+00:30:49,411 --> 00:30:54,070
+&gt;&gt; [CROSSTALK]
+&gt;&gt; It self righted.
+
+512
+00:30:54,070 --> 00:30:54,368
+Oops.
+
+513
+00:30:54,368 --> 00:30:57,337
+No
+&gt;&gt; [CROSSTALK]
+
+514
+00:30:57,337 --> 00:30:59,374
+&gt;&gt; Looking like a wounded animal,
+
+515
+00:30:59,374 --> 00:31:01,416
+it falls down and cannot get up.
+
+516
+00:31:01,416 --> 00:31:04,581
+[MUSIC]
+
+517
+00:31:04,581 --> 00:31:09,005
+For Anthony Levandowski the quest for
+the Grand Challenge Is over.
+
+518
+00:31:09,005 --> 00:31:11,800
+[MUSIC]
+
+519
+00:31:11,800 --> 00:31:12,742
+&gt;&gt; That was our chance.
+
+520
+00:31:12,742 --> 00:31:16,639
+And it was unfortunate, but that's life.
+
+521
+00:31:16,639 --> 00:31:20,717
+[MUSIC]
+
+522
+00:31:20,717 --> 00:31:24,195
+&gt;&gt; Hey Dad, are we there yet?
+
+523
+00:31:24,195 --> 00:31:26,160
+[MUSIC]
+
+524
+00:31:26,160 --> 00:31:28,875
+&gt;&gt; For the Hall brothers,
+it's also the moment of truth.
+
+525
+00:31:28,875 --> 00:31:29,727
+[MUSIC]
+
+526
+00:31:29,727 --> 00:31:33,110
+&gt;&gt; First obstacle, no problem.
+
+527
+00:31:33,110 --> 00:31:34,000
+&gt;&gt; She's looking good.
+
+528
+00:31:34,000 --> 00:31:35,040
+This is looking solid.
+
+529
+00:31:35,040 --> 00:31:38,380
+Barring any hardware issue,
+I think we're going to make it.
+
+530
+00:31:38,380 --> 00:31:39,160
+&gt;&gt; Coming up a little round.
+
+531
+00:31:40,480 --> 00:31:44,010
+&gt;&gt; At opposite ends of the track,
+the brothers Hall hold their breath
+
+532
+00:31:44,010 --> 00:31:47,050
+as their new laser sensor guides
+the truck along the course.
+
+533
+00:31:47,050 --> 00:31:50,032
+&gt;&gt; All right let's see if his
+obstacle detection works.
+
+534
+00:31:50,032 --> 00:31:51,815
+[MUSIC]
+
+535
+00:31:51,815 --> 00:31:53,012
+&gt;&gt; Here's the test.
+
+536
+00:31:53,012 --> 00:31:56,348
+Did all the years of work payoff?
+
+537
+00:31:56,348 --> 00:31:59,428
+[MUSIC]
+
+538
+00:31:59,428 --> 00:32:01,560
+&gt;&gt; Thank you, right around it.
+
+539
+00:32:03,120 --> 00:32:07,200
+&gt;&gt; Almost as though it was
+programmed to do that.
+
+540
+00:32:07,200 --> 00:32:09,500
+&gt;&gt; Dave, I need to tell,
+you're now in the race.
+
+541
+00:32:09,500 --> 00:32:10,251
+You're in the race.
+
+542
+00:32:10,251 --> 00:32:13,524
+&gt;&gt; By finishing the course
+the Hall brothers
+
+543
+00:32:13,524 --> 00:32:16,807
+have now earned a place
+in the main event.
+
+544
+00:32:16,807 --> 00:32:16,857
+&gt;&gt; Booyah baby.
+
+545
+00:32:16,857 --> 00:32:21,880
+You got to love it.
+
+546
+00:32:21,880 --> 00:32:23,440
+&gt;&gt; Ladies and gentlemen, Tera Max.
+
+547
+00:32:23,440 --> 00:32:26,525
+&gt;&gt; Team Tera Max also qualifies for
+the race.
+
+548
+00:32:26,525 --> 00:32:27,810
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Come give me some.
+
+549
+00:32:27,810 --> 00:32:32,998
+&gt;&gt; Thank you Tim
+&gt;&gt; [SOUND] Sandstorm's first
+
+550
+00:32:32,998 --> 00:32:38,331
+run was not a dainty performance.
+
+551
+00:32:38,331 --> 00:32:41,728
+But after the red team
+recalibrates it's lasers,
+
+552
+00:32:41,728 --> 00:32:44,415
+the robot loses it's appetite for hay.
+
+553
+00:32:44,415 --> 00:32:48,239
+[BLANK_AUDIO]
+
+554
+00:32:48,239 --> 00:32:51,899
+Sandstorm's younger sibling almost
+failed to make it to the start.
+
+555
+00:32:53,430 --> 00:32:58,132
+Ten days earlier on a practice run,
+Highlander swerved sharply and
+
+556
+00:32:58,132 --> 00:32:59,541
+rolled on its roof.
+
+557
+00:32:59,541 --> 00:33:05,331
+[MUSIC]
+
+558
+00:33:05,331 --> 00:33:12,940
+For the red team's prized robot,
+it looked like the end of the road.
+
+559
+00:33:12,940 --> 00:33:14,565
+&gt;&gt; Bot 25, the Highlander.
+
+560
+00:33:14,565 --> 00:33:15,830
+[APPLAUSE].
+
+561
+00:33:15,830 --> 00:33:16,825
+In motion.
+
+562
+00:33:16,825 --> 00:33:23,215
+Miraculously, Highlander is back
+in action though hardly tested.
+
+563
+00:33:23,215 --> 00:33:26,935
+[APPLAUSE]
+
+564
+00:33:26,935 --> 00:33:30,242
+[MUSIC]
+
+565
+00:33:30,242 --> 00:33:33,383
+First carrier.
+
+566
+00:33:33,383 --> 00:33:37,534
+It has a shaky start but
+over the course of 3 runs Highlander
+
+567
+00:33:37,534 --> 00:33:41,449
+clocks the fastest times of
+any robot at the qualifier.
+
+568
+00:33:41,449 --> 00:33:45,717
+[BLANK_AUDIO]
+
+569
+00:33:45,717 --> 00:33:46,565
+&gt;&gt; That thing's hauling.
+
+570
+00:33:46,565 --> 00:33:53,084
+[BLANK_AUDIO]
+
+571
+00:33:53,084 --> 00:33:54,637
+Fucking sweet, man.
+
+572
+00:33:54,637 --> 00:33:57,386
+[LAUGH] That's more like it.
+
+573
+00:33:57,386 --> 00:33:58,879
+[LAUGH].
+
+574
+00:33:58,879 --> 00:34:00,965
+And Henley.
+
+575
+00:34:00,965 --> 00:34:05,741
+&gt;&gt; [APPLAUSE]
+&gt;&gt; A first time competitor
+
+576
+00:34:05,741 --> 00:34:08,949
+Stanley is an unknown quantity.
+
+577
+00:34:08,949 --> 00:34:10,730
+No one knows what to expect.
+
+578
+00:34:13,139 --> 00:34:15,380
+The robot passes cleanly
+through the first gate.
+
+579
+00:34:18,560 --> 00:34:22,295
+It shows impressive speed
+on the back stretch but
+
+580
+00:34:22,295 --> 00:34:24,580
+is not as fast as Highlander.
+
+581
+00:34:24,580 --> 00:34:27,464
+Like a proud parent, Sebastian
+records the moment for posterity.
+
+582
+00:34:27,464 --> 00:34:28,592
+&gt;&gt; Yes.
+
+583
+00:34:28,592 --> 00:34:29,480
+So far so good.
+
+584
+00:34:29,480 --> 00:34:34,512
+[MUSIC]
+
+585
+00:34:34,512 --> 00:34:37,860
+&gt;&gt; Flawless.
+
+586
+00:34:37,860 --> 00:34:38,210
+&gt;&gt; Yes.
+
+587
+00:34:38,210 --> 00:34:40,369
+&gt;&gt; He hasn't made a mistake at all.
+
+588
+00:34:40,369 --> 00:34:40,418
+It's perfect.
+
+589
+00:34:40,418 --> 00:34:44,706
+[MUSIC]
+
+590
+00:34:44,706 --> 00:34:46,665
+&gt;&gt; Aided by adaptive vision,
+
+591
+00:34:46,665 --> 00:34:50,763
+Stanley is the only vehicle
+that never hits an obstacle.
+
+592
+00:34:50,763 --> 00:34:53,643
+[MUSIC]
+
+593
+00:34:53,643 --> 00:34:58,980
+&gt;&gt; [APPLAUSE]
+&gt;&gt; In 36
+
+594
+00:34:58,980 --> 00:35:03,390
+hours, the race,
+the real Grand Challenge will begin.
+
+595
+00:35:04,530 --> 00:35:07,930
+DARPA announces who qualified and
+what the starting order will be.
+
+596
+00:35:09,620 --> 00:35:12,255
+&gt;&gt; Highlander is number
+one on Saturday morning.
+
+597
+00:35:12,255 --> 00:35:17,243
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Stanford number two on
+
+598
+00:35:17,243 --> 00:35:18,330
+the pole position.
+
+599
+00:35:18,330 --> 00:35:23,569
+[APPLAUSE] And number three, Sandstorm.
+
+600
+00:35:23,569 --> 00:35:29,653
+[APPLAUSE]
+
+601
+00:35:29,653 --> 00:35:30,974
+[MUSIC]
+
+602
+00:35:30,974 --> 00:35:34,177
+&gt;&gt; The race course is a circular
+maze that zig zags for
+
+603
+00:35:34,177 --> 00:35:38,839
+132 miles across the Mojave dessert
+near the out skirts of Las Vegas.
+
+604
+00:35:40,580 --> 00:35:43,270
+It's mostly flat, but rough and unpaved.
+
+605
+00:35:44,390 --> 00:35:51,570
+It includes tunnels, cattle gates,
+and steep mountain switchbacks.
+
+606
+00:35:52,570 --> 00:35:56,696
+With a 10 hour time limit the race
+will demand speed, agility and
+
+607
+00:35:56,696 --> 00:36:00,465
+endurance that no machine has
+ever demonstrated on its own.
+
+608
+00:36:00,465 --> 00:36:03,746
+[MUSIC]
+
+609
+00:36:03,746 --> 00:36:06,440
+[BLANK_AUDIO]
+
+610
+00:36:06,440 --> 00:36:11,429
+The exact route is a deeply guarded
+secret but now at 4AM on race day,
+
+611
+00:36:11,429 --> 00:36:13,590
+it's released to the teams.
+
+612
+00:36:13,590 --> 00:36:15,650
+&gt;&gt; Good Luck
+&gt;&gt; Thanks
+
+613
+00:36:15,650 --> 00:36:17,040
+&gt;&gt; On a compact disc
+
+614
+00:36:17,040 --> 00:36:21,150
+is a road map defined by
+2900 GPS weigh points.
+
+615
+00:36:21,150 --> 00:36:22,989
+&gt;&gt; All your hopes and
+dreams are on this disc.
+
+616
+00:36:24,890 --> 00:36:27,970
+&gt;&gt; Teams have two hours
+to analyze the map and
+
+617
+00:36:27,970 --> 00:36:30,480
+plug it into their robots
+before the race begins.
+
+618
+00:36:32,120 --> 00:36:36,080
+In several minutes the Stanford team
+loads the course into their robot.
+
+619
+00:36:37,510 --> 00:36:41,995
+Stanley will choose its own speeds
+on the fly adapting to different
+
+620
+00:36:41,995 --> 00:36:43,284
+types of terrain.
+
+621
+00:36:43,284 --> 00:36:44,647
+[MUSIC]
+
+622
+00:36:44,647 --> 00:36:47,060
+The red team takes a far
+different approach.
+
+623
+00:36:49,160 --> 00:36:50,700
+Concealed in their trailer,
+
+624
+00:36:50,700 --> 00:36:53,130
+Whittaker's troops look like
+they're planning an attack.
+
+625
+00:36:54,980 --> 00:36:58,470
+The race course is layered
+on top of elevation data and
+
+626
+00:36:58,470 --> 00:37:01,170
+satellite images stored in
+the red team's computers.
+
+627
+00:37:03,950 --> 00:37:06,210
+&gt;&gt; The route is broken into sections and
+
+628
+00:37:06,210 --> 00:37:09,890
+distributed to team members who
+will examine it in minute detail.
+
+629
+00:37:12,500 --> 00:37:16,500
+Thousands of wave points are added
+to fill gaps in DARPA's map.
+
+630
+00:37:16,500 --> 00:37:20,350
+And each point can be adjusted
+to optimize the robot's path.
+
+631
+00:37:21,400 --> 00:37:25,088
+Speeds are set for
+every inch of terrain.
+
+632
+00:37:25,088 --> 00:37:27,820
+Right where you are,
+right where you are, just do.
+
+633
+00:37:27,820 --> 00:37:31,970
+&gt;&gt; Red believes his robots must have
+as much information as possible to gain
+
+634
+00:37:31,970 --> 00:37:34,580
+the winning edge.
+
+635
+00:37:35,610 --> 00:37:39,320
+&gt;&gt; Our preference is to err
+in the direction of overkill.
+
+636
+00:37:39,320 --> 00:37:43,650
+I wouldn't want to reflect Sunday
+morning that we lowballed it.
+
+637
+00:37:45,630 --> 00:37:46,870
+&gt;&gt; It is slow.
+
+638
+00:37:46,870 --> 00:37:47,590
+It is flat.
+
+639
+00:37:47,590 --> 00:37:48,120
+It is.
+
+640
+00:37:48,120 --> 00:37:53,220
+&gt;&gt; On a course that appears easy,
+Red makes a critical decision.
+
+641
+00:37:54,300 --> 00:37:55,770
+&gt;&gt; So here is the punch line.
+
+642
+00:37:56,920 --> 00:38:01,370
+&gt;&gt; He decides to run Highlander
+at a fast and risky pace.
+
+643
+00:38:01,370 --> 00:38:06,245
+Sandstorm will be the tortoise running
+40 minutes slower in the hope that at
+
+644
+00:38:06,245 --> 00:38:08,653
+least one Red team robot will finish.
+
+645
+00:38:08,653 --> 00:38:10,496
+[MUSIC]
+
+646
+00:38:10,496 --> 00:38:14,591
+The first time it's ever been
+done autonomous vehicles.
+
+647
+00:38:14,591 --> 00:38:19,408
+A storm breaks over desert robots
+prepare to boldly go where no
+
+648
+00:38:19,408 --> 00:38:21,640
+robot has ever gone before.
+
+649
+00:38:21,640 --> 00:38:26,193
+[MUSIC]
+
+650
+00:38:26,193 --> 00:38:31,753
+Vehicles will be launched at five minute
+intervals and race against the clock.
+
+651
+00:38:31,753 --> 00:38:35,089
+&gt;&gt; Hey, Red, Red.
+
+652
+00:38:35,089 --> 00:38:36,290
+All the best.
+
+653
+00:38:36,290 --> 00:38:38,337
+&gt;&gt; Hey Sebastian, good to see you.
+
+654
+00:38:38,337 --> 00:38:41,352
+&gt;&gt; And we have Audible
+
+655
+00:38:41,352 --> 00:38:48,631
+&gt;&gt; [NOISE]
+
+656
+00:38:48,631 --> 00:38:58,631
+[APPLAUSE]
+
+657
+00:39:00,279 --> 00:39:02,500
+&gt;&gt; Highlander leads the pack.
+
+658
+00:39:02,500 --> 00:39:05,060
+&gt;&gt; Followed by Stanley and Sandstorm.
+
+659
+00:39:05,060 --> 00:39:06,980
+&gt;&gt; And we have movement from Stanley.
+
+660
+00:39:06,980 --> 00:39:10,046
+Ladies and gentlemen, the start
+of the Dartmouth Grand Challenge.
+
+661
+00:39:10,046 --> 00:39:14,930
+&gt;&gt; Stanley, Stanley, Stanley, Stanley-
+&gt;&gt; The cheering teams
+
+662
+00:39:14,930 --> 00:39:16,660
+are now spectators.
+
+663
+00:39:16,660 --> 00:39:18,630
+Their work is done.
+
+664
+00:39:18,630 --> 00:39:22,840
+After months of tireless effort,
+there's a lot at stake.
+
+665
+00:39:23,880 --> 00:39:25,665
+And now Sandstorm.
+
+666
+00:39:25,665 --> 00:39:28,260
+[APPLAUSE]
+&gt;&gt; A vision they all share will now be
+
+667
+00:39:28,260 --> 00:39:29,283
+put to the test.
+
+668
+00:39:29,283 --> 00:39:32,519
+[APPLAUSE]
+&gt;&gt; You go, you go, you go.
+
+669
+00:39:32,519 --> 00:39:35,435
+&gt;&gt; Highlander,
+
+670
+00:39:35,435 --> 00:39:41,320
+Stanley and Sandstorm.
+
+671
+00:39:41,320 --> 00:39:49,280
+&gt;&gt; The course is very interesting
+out here set in the Nevada desert.
+
+672
+00:39:50,340 --> 00:39:54,646
+&gt;&gt; During the first eight miles of
+the race Highlander gains two minutes on
+
+673
+00:39:54,646 --> 00:39:55,299
+Stanley.
+
+674
+00:39:55,299 --> 00:40:00,850
+[MUSIC]
+
+675
+00:40:00,850 --> 00:40:04,248
+At times,
+the Stanford robot seems confused.
+
+676
+00:40:04,248 --> 00:40:07,462
+And disoriented.
+
+677
+00:40:07,462 --> 00:40:14,214
+[MUSIC]
+
+678
+00:40:14,214 --> 00:40:21,555
+Sandstorm is keeping pace with
+Stanley five minutes behind.
+
+679
+00:40:21,555 --> 00:40:21,957
+[MUSIC]
+
+680
+00:40:21,957 --> 00:40:24,237
+&gt;&gt; Was of the six here.
+
+681
+00:40:24,237 --> 00:40:26,504
+&gt;&gt; [APPLAUSE]
+&gt;&gt; There, are we there yet?
+
+682
+00:40:26,504 --> 00:40:29,038
+&gt;&gt; [APPLAUSE]
+&gt;&gt; It will take two hours to launch all
+
+683
+00:40:29,038 --> 00:40:29,593
+the robots.
+
+684
+00:40:29,593 --> 00:40:34,190
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Each one leaves the chute with
+
+685
+00:40:34,190 --> 00:40:35,121
+confidence.
+
+686
+00:40:35,121 --> 00:40:38,754
+A far cry from the first Grand Challenge
+when many faltered within sight of
+
+687
+00:40:38,754 --> 00:40:41,110
+the start and
+no robot went beyond seven miles.
+
+688
+00:40:41,110 --> 00:40:44,276
+&gt;&gt; [APPLAUSE]
+&gt;&gt; The start of the race was pretty
+
+689
+00:40:44,276 --> 00:40:44,851
+cool.
+
+690
+00:40:44,851 --> 00:40:49,259
+It was really exciting to
+see all the robots go.
+
+691
+00:40:49,259 --> 00:40:51,798
+I was excited and
+apprehensive at the same time.
+
+692
+00:40:51,798 --> 00:40:52,819
+[MUSIC]
+
+693
+00:40:52,819 --> 00:40:56,055
+You just don't know what's
+going to happen with the robot.
+
+694
+00:40:56,055 --> 00:40:58,589
+It was entirely out of our hands.
+
+695
+00:40:58,589 --> 00:41:02,531
+[MUSIC]
+
+696
+00:41:02,531 --> 00:41:07,709
+&gt;&gt; Far from the crowd, Highlander now
+leads a fleet of driverless machines,
+
+697
+00:41:07,709 --> 00:41:10,364
+racing the clock across the dessert.
+
+698
+00:41:10,364 --> 00:41:13,138
+[MUSIC]
+
+699
+00:41:13,138 --> 00:41:19,567
+Team DAD has passed two robots and
+is now heading to the front of the pack.
+
+700
+00:41:19,567 --> 00:41:21,513
+[MUSIC]
+
+701
+00:41:21,513 --> 00:41:25,880
+18 robots have now passed the 7
+mile mark that ended the last race.
+
+702
+00:41:25,880 --> 00:41:29,461
+[MUSIC]
+
+703
+00:41:29,461 --> 00:41:34,025
+Miraculously, the gray team from New
+Orleans is holding its own only weeks
+
+704
+00:41:34,025 --> 00:41:37,220
+after the city was destroyed
+by Hurricane Katrina.
+
+705
+00:41:37,220 --> 00:41:40,805
+[MUSIC]
+
+706
+00:41:40,805 --> 00:41:44,660
+TerraMax was the last to start,
+and brings up the rear.
+
+707
+00:41:44,660 --> 00:41:48,587
+[MUSIC]
+
+708
+00:41:48,587 --> 00:41:50,067
+Following each robot,
+
+709
+00:41:50,067 --> 00:41:53,770
+DARPA chase vehicles relay
+information back to the start.
+
+710
+00:41:53,770 --> 00:41:57,934
+[MUSIC]
+
+711
+00:41:57,934 --> 00:42:01,473
+Here, teams gather
+around DARPA's displays.
+
+712
+00:42:01,473 --> 00:42:09,172
+&gt;&gt; With us doing the grand stand after
+HIghlanders [INAUDIBLE] freeway.
+
+713
+00:42:09,172 --> 00:42:10,426
+&gt;&gt; It's just pretty sweet.
+
+714
+00:42:10,426 --> 00:42:11,797
+We're pulling away in the front.
+
+715
+00:42:11,797 --> 00:42:12,584
+&gt;&gt; We're pulling away?
+
+716
+00:42:12,584 --> 00:42:13,618
+&gt;&gt; For now.
+
+717
+00:42:13,618 --> 00:42:14,404
+&gt;&gt; We're pulling away from DAD?
+
+718
+00:42:14,404 --> 00:42:14,454
+&gt;&gt; No, from Stanford.
+
+719
+00:42:14,454 --> 00:42:18,476
+[MUSIC]
+
+720
+00:42:18,476 --> 00:42:22,157
+&gt;&gt; 30 miles into the race,
+Highlander is making time on Stanley.
+
+721
+00:42:22,157 --> 00:42:27,910
+[MUSIC]
+
+722
+00:42:27,910 --> 00:42:33,445
+Behind Stanley, Sandstorm is closing
+the gap and may pass the Stanford robot.
+
+723
+00:42:33,445 --> 00:42:34,868
+[MUSIC]
+
+724
+00:42:34,868 --> 00:42:39,846
+Behind them robots are starting
+to drop like flies.
+
+725
+00:42:39,846 --> 00:42:43,411
+[MUSIC]
+
+726
+00:42:43,411 --> 00:42:48,632
+At mile 26 Team DAD's laser
+comes unbolted from the roof.
+
+727
+00:42:48,632 --> 00:42:52,963
+Officials to the chase car hit the kill
+switch, and for the Hall brothers,
+
+728
+00:42:52,963 --> 00:42:54,011
+the race is over.
+
+729
+00:42:54,011 --> 00:42:57,320
+[MUSIC]
+
+730
+00:42:57,320 --> 00:42:58,513
+At a media stop,
+
+731
+00:42:58,513 --> 00:43:04,154
+a group of journalists sees Highlander
+charging toward them in the distance.
+
+732
+00:43:04,154 --> 00:43:09,466
+&gt;&gt; Highlander seemed to come
+down the hill very smartly,
+
+733
+00:43:09,466 --> 00:43:13,860
+but then as it started
+to mount the next hill.
+
+734
+00:43:13,860 --> 00:43:16,574
+It looked like it ran out of gas or
+the engine cut off, or
+
+735
+00:43:16,574 --> 00:43:18,640
+somebody in there threw it into neutral.
+
+736
+00:43:18,640 --> 00:43:23,080
+It just stopped moving and slid back
+down to the bottom of the hill.
+
+737
+00:43:26,500 --> 00:43:30,450
+Something was wrong with Highlander, and
+it did not have its normal get up and
+
+738
+00:43:30,450 --> 00:43:30,630
+go.
+
+739
+00:43:30,630 --> 00:43:34,194
+[MUSIC]
+
+740
+00:43:34,194 --> 00:43:37,760
+&gt;&gt; Highlander keeps on rolling, but
+cannot maintain its intended pace.
+
+741
+00:43:37,760 --> 00:43:40,337
+[MUSIC]
+
+742
+00:43:40,337 --> 00:43:45,033
+Red and the team slowly realize that
+things are not going according to plan.
+
+743
+00:43:45,033 --> 00:43:48,335
+[BLANK_AUDIO]
+
+744
+00:43:48,335 --> 00:43:51,291
+&gt;&gt; I don't know what's going on
+with Highlander, it's weird.
+
+745
+00:43:51,291 --> 00:43:51,996
+&gt;&gt; It's running slow.
+
+746
+00:43:51,996 --> 00:43:53,449
+&gt;&gt; It's running real slow.
+
+747
+00:43:53,449 --> 00:43:58,691
+[MUSIC]
+
+748
+00:43:58,691 --> 00:44:05,286
+&gt;&gt; Highlander struggles to summon
+the power to complete its mission.
+
+749
+00:44:05,286 --> 00:44:15,249
+[MUSIC]
+
+750
+00:44:15,249 --> 00:44:18,060
+&gt;&gt; Behind it Stanley is
+rapidly approaching.
+
+751
+00:44:18,060 --> 00:44:28,212
+[MUSIC]
+
+752
+00:44:28,212 --> 00:44:31,693
+&gt;&gt; But Highlander recovers on the flat,
+and for many miles,
+
+753
+00:44:31,693 --> 00:44:33,406
+they continue neck to neck.
+
+754
+00:44:33,406 --> 00:44:43,418
+[MUSIC]
+
+755
+00:44:43,418 --> 00:44:49,813
+102 miles into the race,
+
+756
+00:44:49,813 --> 00:44:55,409
+Stanley's video camera
+
+757
+00:44:55,409 --> 00:45:01,810
+records a milestone event.
+
+758
+00:45:01,810 --> 00:45:02,782
+&gt;&gt; [MUSIC]
+
+759
+00:45:02,782 --> 00:45:04,518
+&gt;&gt; Stanley has passed Highlander.
+
+760
+00:45:04,518 --> 00:45:13,825
+&gt;&gt; [APPLAUSE]
+
+761
+00:45:13,825 --> 00:45:17,230
+&gt;&gt; Satnley's
+
+762
+00:45:17,230 --> 00:45:20,978
+[INAUDIBLE]
+&gt;&gt; At that point,
+
+763
+00:45:20,978 --> 00:45:23,400
+we pretty much Highlander
+wasn't going to win the race.
+
+764
+00:45:23,400 --> 00:45:27,088
+We thought Sandstorm might have
+a chance, it was really disappointing.
+
+765
+00:45:27,088 --> 00:45:29,687
+&gt;&gt; [APPLAUSE]
+
+766
+00:45:29,687 --> 00:45:31,750
+[MUSIC]
+
+767
+00:45:31,750 --> 00:45:35,103
+&gt;&gt; Five hours after
+leaving the starting line,
+
+768
+00:45:35,103 --> 00:45:40,231
+Stanley now leads the pack and
+just five robots remain on the course.
+
+769
+00:45:40,231 --> 00:45:44,513
+To finish they must wind through
+a treacherous mountain pass, and
+
+770
+00:45:44,513 --> 00:45:47,579
+Stanley must now make life or
+death decisions.
+
+771
+00:45:47,579 --> 00:45:56,214
+[MUSIC]
+
+772
+00:45:56,214 --> 00:46:00,613
+Somehow Highlander has managed to
+reach the summit of the pass, but
+
+773
+00:46:00,613 --> 00:46:04,460
+the gimble is turned sideways and
+appears to be dead.
+
+774
+00:46:04,460 --> 00:46:08,250
+Without its secret weapon,
+it must rely on short range lasers and
+
+775
+00:46:08,250 --> 00:46:10,807
+GPS to avoid disaster.
+
+776
+00:46:10,807 --> 00:46:14,127
+[MUSIC]
+
+777
+00:46:14,127 --> 00:46:19,118
+Right behind Highlander,
+Sandstorm is in good shape,
+
+778
+00:46:19,118 --> 00:46:22,631
+but driving slowly according to plan.
+
+779
+00:46:22,631 --> 00:46:32,631
+[MUSIC]
+
+780
+00:46:35,844 --> 00:46:38,380
+The crowd gathers.
+
+781
+00:46:38,380 --> 00:46:40,333
+A blue dot appears in the distance.
+
+782
+00:46:40,333 --> 00:46:42,531
+[MUSIC]
+
+783
+00:46:42,531 --> 00:46:50,219
+&gt;&gt; [APPLAUSE]
+
+784
+00:46:50,219 --> 00:46:53,128
+&gt;&gt; After driving 6 hours and
+
+785
+00:46:53,128 --> 00:46:59,218
+53 minutes at an average
+speed of 19 miles an hour.
+
+786
+00:46:59,218 --> 00:47:03,187
+Stanley is about to become the first
+vehicle in history to drive 132 miles by
+
+787
+00:47:03,187 --> 00:47:03,674
+itself.
+
+788
+00:47:03,674 --> 00:47:13,674
+&gt;&gt; [APPLAUSE]
+
+789
+00:47:24,198 --> 00:47:25,679
+&gt;&gt; 25, Red team 2,
+
+790
+00:47:25,679 --> 00:47:30,564
+Highlander from Pittsburgh, PA,
+Carnegie Mellon University,
+
+791
+00:47:30,564 --> 00:47:35,136
+the Red team 2 is alliance
+&gt;&gt; 21 minutes behind Stanley,
+
+792
+00:47:35,136 --> 00:47:37,330
+Highlander limps to the finish.
+
+793
+00:47:37,330 --> 00:47:41,862
+&gt;&gt; [APPLAUSE]
+
+794
+00:47:41,862 --> 00:47:47,499
+[MUSIC]
+
+795
+00:47:47,499 --> 00:47:51,395
+&gt;&gt; Minutes later the trustee
+veteran appears.
+
+796
+00:47:51,395 --> 00:47:53,789
+&gt;&gt; Spot number 19, Sandstorm.
+
+797
+00:47:53,789 --> 00:47:56,082
+&gt;&gt; [APPLAUSE]
+
+798
+00:47:56,082 --> 00:48:05,766
+[APPLAUSE]
+
+799
+00:48:05,766 --> 00:48:16,211
+[MUSIC]
+
+800
+00:48:16,211 --> 00:48:17,461
+You don't need us?
+
+801
+00:48:17,461 --> 00:48:19,960
+[LAUGH]
+&gt;&gt; [LAUGH]
+
+802
+00:48:19,960 --> 00:48:21,710
+&gt;&gt; It was just amazing to see
+
+803
+00:48:21,710 --> 00:48:25,482
+this community of people,
+that community succeeded today.
+
+804
+00:48:25,482 --> 00:48:30,430
+Behind me there are three Volvos that
+made it all the way to the desert.
+
+805
+00:48:30,430 --> 00:48:32,930
+And all three of them
+did the unthinkable.
+
+806
+00:48:32,930 --> 00:48:35,760
+It's such a fantastic success for
+this community.
+
+807
+00:48:35,760 --> 00:48:36,685
+I think we all win.
+
+808
+00:48:36,685 --> 00:48:42,012
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Before announcing the winner,
+
+809
+00:48:42,012 --> 00:48:45,635
+DARPA officials honor
+the five finishing teams.
+
+810
+00:48:45,635 --> 00:48:48,905
+&gt;&gt; [APPLAUSE]
+&gt;&gt; TerraMax is fifth.
+
+811
+00:48:48,905 --> 00:48:52,170
+&gt;&gt; [APPLAUSE]
+&gt;&gt; A dark horse,
+
+812
+00:48:52,170 --> 00:48:55,205
+the gray team from
+New Orleans is fourth.
+
+813
+00:48:55,205 --> 00:48:59,610
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Highlander is third.
+
+814
+00:49:02,080 --> 00:49:07,895
+Sandstorm, Whitaker's tortoise,
+was just 11 minutes behind the winner.
+
+815
+00:49:07,895 --> 00:49:10,435
+&gt;&gt; [APPLAUSE]
+&gt;&gt; So I guess it's time.
+
+816
+00:49:10,435 --> 00:49:15,641
+&gt;&gt; [APPLAUSE]
+&gt;&gt; The check goes to Stanley.
+
+817
+00:49:15,641 --> 00:49:21,089
+&gt;&gt; [APPLAUSE]
+&gt;&gt; So
+
+818
+00:49:21,089 --> 00:49:22,695
+if someone from Stanley,
+will please come up here.
+
+819
+00:49:22,695 --> 00:49:27,691
+&gt;&gt; [APPLAUSE]
+&gt;&gt; What Stanford did in
+
+820
+00:49:27,691 --> 00:49:32,820
+a short span of time is
+amazing in robotics world.
+
+821
+00:49:32,820 --> 00:49:36,440
+On this scale of time to develop
+a system this sophisticated that can
+
+822
+00:49:36,440 --> 00:49:41,490
+navigate so well over such a wide
+variety of terrain at such high speeds.
+
+823
+00:49:41,490 --> 00:49:43,890
+It really is worth its
+place in the history books.
+
+824
+00:49:43,890 --> 00:49:49,228
+[MUSIC]
+
+825
+00:49:49,228 --> 00:49:52,600
+&gt;&gt; The source of Highlander's
+problems remains a mystery.
+
+826
+00:49:52,600 --> 00:49:54,810
+That may have been
+the result of its roll over.
+
+827
+00:49:56,100 --> 00:49:57,880
+&gt;&gt; The engine punked on us.
+
+828
+00:49:57,880 --> 00:50:03,811
+The only thing that was short was not
+having a top-end speed on the gas pedal.
+
+829
+00:50:03,811 --> 00:50:08,910
+Except for that, ran like a charm.
+
+830
+00:50:08,910 --> 00:50:10,800
+&gt;&gt; This really was like a horse race.
+
+831
+00:50:10,800 --> 00:50:15,290
+They finished in such close times.
+
+832
+00:50:15,290 --> 00:50:18,815
+So, the red team is
+justifiably proud for
+
+833
+00:50:18,815 --> 00:50:22,651
+having both of its robots
+finish the course.
+
+834
+00:50:22,651 --> 00:50:27,270
+&gt;&gt; [APPLAUSE]
+&gt;&gt; Many believe the completion
+
+835
+00:50:27,270 --> 00:50:32,250
+of the grand challenge is a giant step
+that will push robots out of the lab and
+
+836
+00:50:32,250 --> 00:50:33,350
+into the real world.
+
+837
+00:50:35,040 --> 00:50:38,830
+The forces that will make this happen
+are embodied in the passion and
+
+838
+00:50:38,830 --> 00:50:40,290
+vision of two men.
+
+839
+00:50:41,820 --> 00:50:45,330
+&gt;&gt; The world needs both
+Sebastian Thrun's and Brent Whitaker's.
+
+840
+00:50:47,000 --> 00:50:50,590
+If robotics is ever going to become
+part of the daily fabric of our lives,
+
+841
+00:50:50,590 --> 00:50:54,390
+it needs those scientists who can
+come up with those far out ideas for
+
+842
+00:50:54,390 --> 00:50:57,720
+how machines are actually going
+to start to think, to reason.
+
+843
+00:50:57,720 --> 00:51:00,752
+[MUSIC]
+
+844
+00:51:00,752 --> 00:51:03,734
+And it also needs the builders,
+the implementors, and
+
+845
+00:51:03,734 --> 00:51:06,850
+those who are driven to make
+things work in the real world.
+
+846
+00:51:06,850 --> 00:51:10,147
+[MUSIC]
+
+847
+00:51:10,147 --> 00:51:14,088
+&gt;&gt; There's every reason to believe all
+those who participated will continue
+
+848
+00:51:14,088 --> 00:51:18,290
+their quest to innovate even though the
+grand challenge itself is now history.
+
+849
+00:51:18,290 --> 00:51:22,757
+[MUSIC]
+
+850
+00:51:22,757 --> 00:51:24,450
+So what about the future?
+
+851
+00:51:27,120 --> 00:51:29,730
+Will mechanical warriors
+take over the battlefield?
+
+852
+00:51:29,730 --> 00:51:33,117
+[MUSIC]
+
+853
+00:51:33,117 --> 00:51:36,730
+Will we all be passengers on
+the highways of tomorrow?
+
+854
+00:51:39,735 --> 00:51:44,890
+Someday the great robot race may
+well be remembered as a moment when
+
+855
+00:51:44,890 --> 00:51:51,130
+the partnership between humans and the
+machines we create was forever changed.
+
+856
+00:51:51,130 --> 00:52:01,130
+[MUSIC]
+
+857
+00:52:43,808 --> 00:52:46,919
+Nova is a production of WGBH Boston.
+
+858
+00:52:46,919 --> 00:52:51,390
+Corporate funding for
+Nova is provided by Google and by BP.
+
+859
+00:52:53,060 --> 00:52:57,340
+Major funding for Nova is provided by
+the Howard Hughes Medical Institute,
+
+860
+00:52:57,340 --> 00:53:03,020
+serving society through biomedical
+research and science education, HHMI.
+
+861
+00:53:03,020 --> 00:53:06,670
+Major funding for Nova is also
+provided by the Corporation for
+
+862
+00:53:06,670 --> 00:53:10,000
+Public Broadcasting and
+by PBS viewers like you.
+
+863
+00:53:10,000 --> 00:53:11,014
+Thank you.
+
+864
+00:53:11,014 --> 00:53:11,064
+[MUSIC]
